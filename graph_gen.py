@@ -1,16 +1,16 @@
 import numpy as np
 import os
-import re
 import yaml
-
-
 import shutil
+from tqdm import tqdm
+
 
 def clear_directory(directory_path):
     """
     Deletes all files and subdirectories inside the given directory without deleting the directory itself.
     
-    :param directory_path: Path to the directory to be cleared.
+    Args:
+        directory_path (str): Path to the directory to be cleared.
     """
     if os.path.exists(directory_path) and os.path.isdir(directory_path):
         for item in os.listdir(directory_path):
@@ -38,7 +38,7 @@ def erdos_renyi_gnp(n, k, dataset_dir, name):
 
     Args:
         n (int): Number of vertices.
-        p (float): Probability of edge creation.
+        k (float): Sparsity parameter.
         dataset_dir (str): Directory to save the generated graph.
         name (int): Name of the graph file.
     """
@@ -86,14 +86,14 @@ if __name__ == "__main__":
     # Sanity checks
     assert gen_model in ["ergnp"], "Invalid graph generation model."
     assert n > 0, "Number of vertices should be positive."
-    assert k >= 0 and k <= n, "Probability of edge creation should be in the range [0, 1]."
+    assert k >= 0 and k <= n, "Probability of edge creation (n/k) should be in the range [0, 1]."
     assert size > 0, "Number of graphs should be positive."
 
     if gen_model == "ergnp":
         subdir = f"{dataset_dir}/ergnp_{n}_{k}"
         os.makedirs(subdir, exist_ok=True)
         clear_directory(subdir)
-        for i in range(size):
+        for i in tqdm(range(size), desc="Generating graphs"):
             erdos_renyi_gnp(n, k, subdir, i)
 
     print(f"Generated {size} graphs using the {gen_model} model with {n} vertices.")

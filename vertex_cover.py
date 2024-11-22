@@ -1,17 +1,18 @@
 import numpy as np
 from pulp import LpProblem, LpMinimize, LpVariable, lpSum, LpBinary, PULP_CBC_CMD
-import re
 import os
 import time
 import yaml
 import shutil
+from tqdm import tqdm
 
 
 def clear_directory(directory_path):
     """
     Deletes all files and subdirectories inside the given directory without deleting the directory itself.
     
-    :param directory_path: Path to the directory to be cleared.
+    Args:
+        directory_path (str): Path to the directory to be cleared.
     """
     if os.path.exists(directory_path) and os.path.isdir(directory_path):
         for item in os.listdir(directory_path):
@@ -27,8 +28,8 @@ def opt_vertex_cover(weights, edges):
     Computes the exact optimal weighted vertex cover for a general graph using ILP.
     
     Args:
-        edges (list of tuples): List of edges, where each edge is represented as a tuple (u, v).
         weights (list): List of weights for the vertices. weights[i] is the weight of vertex i.
+        edges (list of tuples): List of edges, where each edge is represented as a tuple (u, v).
     
     Returns:
         set, float: A vertex cover (set of vertices) and the total weight of the vertex cover.
@@ -64,8 +65,8 @@ def alg_vertex_cover(weights, edges):
     Implements the approximate primal-dual algorithm for weighted vertex cover using numpy arrays.
     
     Args:
-        edges (list of tuples): List of edges, where each edge is represented as a tuple (u, v).
         weights (list): List of weights for the vertices. weights[i] is the weight of vertex i.
+        edges (list of tuples): List of edges, where each edge is represented as a tuple (u, v).
     
     Returns:
         set, float: A vertex cover (set of vertices) and the total weight of the vertex cover.
@@ -130,7 +131,7 @@ def process_graphs(dataset_dir):
     # Dictionary to store the results
     alg_opt_dict = dict()
 
-    for file in os.listdir(dataset_dir):
+    for file in tqdm(os.listdir(dataset_dir), desc="Processing Graphs"):
         # Read the graph file
         with open(os.path.join(dataset_dir, file), "r") as f:
             n, m = map(int, f.readline().split())
@@ -219,3 +220,6 @@ if __name__ == "__main__":
 
     # Print the results
     print_results(alg_opt_dict, output_dir)
+
+    print(f"Results saved in {output_dir}.")
+    
