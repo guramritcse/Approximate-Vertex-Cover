@@ -1,0 +1,6004 @@
+Graph: ergnp_2000_3_349.txt
+Algorithm Time: 21804.73 ms
+Optimal Time: 502.22 ms
+Algorithm Time / Optimal Time Ratio: 43.42
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_361.txt
+Algorithm Time: 21232.90 ms
+Optimal Time: 194.33 ms
+Algorithm Time / Optimal Time Ratio: 109.26
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_407.txt
+Algorithm Time: 20589.71 ms
+Optimal Time: 202.71 ms
+Algorithm Time / Optimal Time Ratio: 101.57
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_413.txt
+Algorithm Time: 21156.21 ms
+Optimal Time: 189.21 ms
+Algorithm Time / Optimal Time Ratio: 111.81
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_375.txt
+Algorithm Time: 21120.53 ms
+Optimal Time: 165.35 ms
+Algorithm Time / Optimal Time Ratio: 127.73
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_639.txt
+Algorithm Time: 21188.49 ms
+Optimal Time: 206.45 ms
+Algorithm Time / Optimal Time Ratio: 102.63
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_605.txt
+Algorithm Time: 21335.86 ms
+Optimal Time: 155.37 ms
+Algorithm Time / Optimal Time Ratio: 137.32
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_163.txt
+Algorithm Time: 20662.42 ms
+Optimal Time: 210.03 ms
+Algorithm Time / Optimal Time Ratio: 98.38
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_177.txt
+Algorithm Time: 20932.73 ms
+Optimal Time: 126.41 ms
+Algorithm Time / Optimal Time Ratio: 165.60
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_611.txt
+Algorithm Time: 20655.80 ms
+Optimal Time: 160.44 ms
+Algorithm Time / Optimal Time Ratio: 128.75
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_822.txt
+Algorithm Time: 20880.41 ms
+Optimal Time: 166.62 ms
+Algorithm Time / Optimal Time Ratio: 125.32
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_188.txt
+Algorithm Time: 20966.79 ms
+Optimal Time: 172.97 ms
+Algorithm Time / Optimal Time Ratio: 121.22
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_836.txt
+Algorithm Time: 20741.82 ms
+Optimal Time: 159.33 ms
+Algorithm Time / Optimal Time Ratio: 130.18
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_995.txt
+Algorithm Time: 20548.18 ms
+Optimal Time: 167.32 ms
+Algorithm Time / Optimal Time Ratio: 122.81
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_759.txt
+Algorithm Time: 20826.92 ms
+Optimal Time: 377.14 ms
+Algorithm Time / Optimal Time Ratio: 55.22
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_981.txt
+Algorithm Time: 20712.77 ms
+Optimal Time: 337.40 ms
+Algorithm Time / Optimal Time Ratio: 61.39
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_771.txt
+Algorithm Time: 20721.84 ms
+Optimal Time: 166.18 ms
+Algorithm Time / Optimal Time Ratio: 124.70
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_765.txt
+Algorithm Time: 20495.38 ms
+Optimal Time: 156.49 ms
+Algorithm Time / Optimal Time Ratio: 130.97
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_956.txt
+Algorithm Time: 21023.59 ms
+Optimal Time: 166.82 ms
+Algorithm Time / Optimal Time Ratio: 126.02
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_21.txt
+Algorithm Time: 20759.73 ms
+Optimal Time: 171.15 ms
+Algorithm Time / Optimal Time Ratio: 121.30
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_35.txt
+Algorithm Time: 21053.62 ms
+Optimal Time: 479.10 ms
+Algorithm Time / Optimal Time Ratio: 43.94
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_942.txt
+Algorithm Time: 20920.72 ms
+Optimal Time: 169.48 ms
+Algorithm Time / Optimal Time Ratio: 123.44
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_229.txt
+Algorithm Time: 21213.19 ms
+Optimal Time: 170.72 ms
+Algorithm Time / Optimal Time Ratio: 124.26
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_215.txt
+Algorithm Time: 20862.26 ms
+Optimal Time: 172.51 ms
+Algorithm Time / Optimal Time Ratio: 120.93
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_573.txt
+Algorithm Time: 20926.14 ms
+Optimal Time: 167.58 ms
+Algorithm Time / Optimal Time Ratio: 124.87
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_567.txt
+Algorithm Time: 21489.55 ms
+Optimal Time: 165.00 ms
+Algorithm Time / Optimal Time Ratio: 130.24
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_201.txt
+Algorithm Time: 20691.96 ms
+Optimal Time: 166.00 ms
+Algorithm Time / Optimal Time Ratio: 124.65
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_598.txt
+Algorithm Time: 21183.83 ms
+Optimal Time: 173.04 ms
+Algorithm Time / Optimal Time Ratio: 122.43
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_599.txt
+Algorithm Time: 21105.62 ms
+Optimal Time: 348.94 ms
+Algorithm Time / Optimal Time Ratio: 60.48
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_566.txt
+Algorithm Time: 21115.32 ms
+Optimal Time: 165.95 ms
+Algorithm Time / Optimal Time Ratio: 127.24
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_200.txt
+Algorithm Time: 21074.28 ms
+Optimal Time: 172.63 ms
+Algorithm Time / Optimal Time Ratio: 122.08
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_214.txt
+Algorithm Time: 20830.19 ms
+Optimal Time: 166.96 ms
+Algorithm Time / Optimal Time Ratio: 124.76
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_572.txt
+Algorithm Time: 21410.43 ms
+Optimal Time: 486.62 ms
+Algorithm Time / Optimal Time Ratio: 44.00
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_228.txt
+Algorithm Time: 20916.30 ms
+Optimal Time: 173.51 ms
+Algorithm Time / Optimal Time Ratio: 120.55
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_34.txt
+Algorithm Time: 20565.73 ms
+Optimal Time: 159.78 ms
+Algorithm Time / Optimal Time Ratio: 128.71
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_943.txt
+Algorithm Time: 20711.05 ms
+Optimal Time: 152.88 ms
+Algorithm Time / Optimal Time Ratio: 135.47
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_957.txt
+Algorithm Time: 21353.43 ms
+Optimal Time: 199.35 ms
+Algorithm Time / Optimal Time Ratio: 107.12
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_20.txt
+Algorithm Time: 20916.03 ms
+Optimal Time: 340.74 ms
+Algorithm Time / Optimal Time Ratio: 61.38
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_764.txt
+Algorithm Time: 20800.90 ms
+Optimal Time: 168.67 ms
+Algorithm Time / Optimal Time Ratio: 123.32
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_770.txt
+Algorithm Time: 20658.67 ms
+Optimal Time: 325.08 ms
+Algorithm Time / Optimal Time Ratio: 63.55
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_980.txt
+Algorithm Time: 21054.14 ms
+Optimal Time: 166.67 ms
+Algorithm Time / Optimal Time Ratio: 126.32
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_758.txt
+Algorithm Time: 20643.46 ms
+Optimal Time: 160.45 ms
+Algorithm Time / Optimal Time Ratio: 128.66
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_994.txt
+Algorithm Time: 20635.82 ms
+Optimal Time: 170.30 ms
+Algorithm Time / Optimal Time Ratio: 121.17
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_189.txt
+Algorithm Time: 20794.92 ms
+Optimal Time: 168.61 ms
+Algorithm Time / Optimal Time Ratio: 123.33
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_837.txt
+Algorithm Time: 20925.37 ms
+Optimal Time: 155.73 ms
+Algorithm Time / Optimal Time Ratio: 134.37
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_823.txt
+Algorithm Time: 20933.02 ms
+Optimal Time: 522.29 ms
+Algorithm Time / Optimal Time Ratio: 40.08
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_176.txt
+Algorithm Time: 20933.40 ms
+Optimal Time: 358.41 ms
+Algorithm Time / Optimal Time Ratio: 58.41
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_610.txt
+Algorithm Time: 20710.84 ms
+Optimal Time: 367.96 ms
+Algorithm Time / Optimal Time Ratio: 56.29
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_604.txt
+Algorithm Time: 20637.83 ms
+Optimal Time: 212.46 ms
+Algorithm Time / Optimal Time Ratio: 97.14
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_162.txt
+Algorithm Time: 20921.59 ms
+Optimal Time: 202.35 ms
+Algorithm Time / Optimal Time Ratio: 103.40
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_638.txt
+Algorithm Time: 21154.32 ms
+Optimal Time: 172.40 ms
+Algorithm Time / Optimal Time Ratio: 122.70
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_412.txt
+Algorithm Time: 20392.96 ms
+Optimal Time: 161.67 ms
+Algorithm Time / Optimal Time Ratio: 126.14
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_374.txt
+Algorithm Time: 20467.38 ms
+Optimal Time: 178.90 ms
+Algorithm Time / Optimal Time Ratio: 114.40
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_360.txt
+Algorithm Time: 21214.09 ms
+Optimal Time: 368.78 ms
+Algorithm Time / Optimal Time Ratio: 57.53
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_406.txt
+Algorithm Time: 21005.91 ms
+Optimal Time: 170.79 ms
+Algorithm Time / Optimal Time Ratio: 122.99
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_348.txt
+Algorithm Time: 20941.93 ms
+Optimal Time: 163.43 ms
+Algorithm Time / Optimal Time Ratio: 128.14
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_438.txt
+Algorithm Time: 21018.61 ms
+Optimal Time: 172.27 ms
+Algorithm Time / Optimal Time Ratio: 122.01
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_376.txt
+Algorithm Time: 20763.78 ms
+Optimal Time: 166.59 ms
+Algorithm Time / Optimal Time Ratio: 124.64
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_410.txt
+Algorithm Time: 21131.95 ms
+Optimal Time: 386.35 ms
+Algorithm Time / Optimal Time Ratio: 54.70
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_404.txt
+Algorithm Time: 20914.77 ms
+Optimal Time: 396.00 ms
+Algorithm Time / Optimal Time Ratio: 52.81
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_362.txt
+Algorithm Time: 20933.57 ms
+Optimal Time: 172.83 ms
+Algorithm Time / Optimal Time Ratio: 121.12
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_389.txt
+Algorithm Time: 20853.58 ms
+Optimal Time: 159.26 ms
+Algorithm Time / Optimal Time Ratio: 130.94
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_148.txt
+Algorithm Time: 21335.41 ms
+Optimal Time: 156.15 ms
+Algorithm Time / Optimal Time Ratio: 136.64
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_612.txt
+Algorithm Time: 21178.95 ms
+Optimal Time: 161.79 ms
+Algorithm Time / Optimal Time Ratio: 130.90
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_174.txt
+Algorithm Time: 21022.48 ms
+Optimal Time: 165.76 ms
+Algorithm Time / Optimal Time Ratio: 126.82
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_160.txt
+Algorithm Time: 20812.67 ms
+Optimal Time: 371.85 ms
+Algorithm Time / Optimal Time Ratio: 55.97
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_606.txt
+Algorithm Time: 20937.70 ms
+Optimal Time: 190.21 ms
+Algorithm Time / Optimal Time Ratio: 110.08
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_835.txt
+Algorithm Time: 21351.95 ms
+Optimal Time: 165.52 ms
+Algorithm Time / Optimal Time Ratio: 129.00
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_821.txt
+Algorithm Time: 21158.38 ms
+Optimal Time: 165.10 ms
+Algorithm Time / Optimal Time Ratio: 128.15
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_809.txt
+Algorithm Time: 20747.95 ms
+Optimal Time: 162.59 ms
+Algorithm Time / Optimal Time Ratio: 127.61
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_982.txt
+Algorithm Time: 20879.89 ms
+Optimal Time: 165.52 ms
+Algorithm Time / Optimal Time Ratio: 126.15
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_996.txt
+Algorithm Time: 21144.78 ms
+Optimal Time: 156.29 ms
+Algorithm Time / Optimal Time Ratio: 135.29
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_766.txt
+Algorithm Time: 21165.92 ms
+Optimal Time: 414.54 ms
+Algorithm Time / Optimal Time Ratio: 51.06
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_772.txt
+Algorithm Time: 21210.96 ms
+Optimal Time: 361.70 ms
+Algorithm Time / Optimal Time Ratio: 58.64
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_941.txt
+Algorithm Time: 21038.11 ms
+Optimal Time: 394.37 ms
+Algorithm Time / Optimal Time Ratio: 53.35
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_799.txt
+Algorithm Time: 21030.08 ms
+Optimal Time: 154.82 ms
+Algorithm Time / Optimal Time Ratio: 135.83
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_36.txt
+Algorithm Time: 21071.21 ms
+Optimal Time: 168.97 ms
+Algorithm Time / Optimal Time Ratio: 124.71
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_22.txt
+Algorithm Time: 20619.84 ms
+Optimal Time: 173.78 ms
+Algorithm Time / Optimal Time Ratio: 118.66
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_955.txt
+Algorithm Time: 21115.24 ms
+Optimal Time: 171.49 ms
+Algorithm Time / Optimal Time Ratio: 123.13
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_969.txt
+Algorithm Time: 20672.26 ms
+Optimal Time: 160.49 ms
+Algorithm Time / Optimal Time Ratio: 128.81
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_558.txt
+Algorithm Time: 21110.53 ms
+Optimal Time: 169.35 ms
+Algorithm Time / Optimal Time Ratio: 124.66
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_202.txt
+Algorithm Time: 21389.70 ms
+Optimal Time: 334.45 ms
+Algorithm Time / Optimal Time Ratio: 63.96
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_564.txt
+Algorithm Time: 20833.54 ms
+Optimal Time: 163.85 ms
+Algorithm Time / Optimal Time Ratio: 127.15
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_570.txt
+Algorithm Time: 21445.04 ms
+Optimal Time: 176.18 ms
+Algorithm Time / Optimal Time Ratio: 121.72
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_216.txt
+Algorithm Time: 21126.37 ms
+Optimal Time: 174.14 ms
+Algorithm Time / Optimal Time Ratio: 121.32
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_571.txt
+Algorithm Time: 20569.07 ms
+Optimal Time: 398.81 ms
+Algorithm Time / Optimal Time Ratio: 51.58
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_217.txt
+Algorithm Time: 21174.30 ms
+Optimal Time: 165.33 ms
+Algorithm Time / Optimal Time Ratio: 128.08
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_203.txt
+Algorithm Time: 21014.06 ms
+Optimal Time: 365.26 ms
+Algorithm Time / Optimal Time Ratio: 57.53
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_565.txt
+Algorithm Time: 20827.29 ms
+Optimal Time: 189.69 ms
+Algorithm Time / Optimal Time Ratio: 109.80
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_559.txt
+Algorithm Time: 20817.83 ms
+Optimal Time: 162.71 ms
+Algorithm Time / Optimal Time Ratio: 127.95
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_968.txt
+Algorithm Time: 20949.50 ms
+Optimal Time: 169.37 ms
+Algorithm Time / Optimal Time Ratio: 123.69
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_23.txt
+Algorithm Time: 21422.21 ms
+Optimal Time: 158.66 ms
+Algorithm Time / Optimal Time Ratio: 135.02
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_954.txt
+Algorithm Time: 21202.35 ms
+Optimal Time: 168.14 ms
+Algorithm Time / Optimal Time Ratio: 126.10
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_798.txt
+Algorithm Time: 20604.96 ms
+Optimal Time: 158.96 ms
+Algorithm Time / Optimal Time Ratio: 129.63
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_940.txt
+Algorithm Time: 21194.49 ms
+Optimal Time: 165.86 ms
+Algorithm Time / Optimal Time Ratio: 127.79
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_37.txt
+Algorithm Time: 20652.94 ms
+Optimal Time: 163.36 ms
+Algorithm Time / Optimal Time Ratio: 126.42
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_773.txt
+Algorithm Time: 21263.97 ms
+Optimal Time: 207.59 ms
+Algorithm Time / Optimal Time Ratio: 102.43
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_767.txt
+Algorithm Time: 21015.98 ms
+Optimal Time: 170.09 ms
+Algorithm Time / Optimal Time Ratio: 123.56
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_997.txt
+Algorithm Time: 21048.72 ms
+Optimal Time: 167.69 ms
+Algorithm Time / Optimal Time Ratio: 125.52
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_983.txt
+Algorithm Time: 21132.07 ms
+Optimal Time: 160.92 ms
+Algorithm Time / Optimal Time Ratio: 131.32
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_808.txt
+Algorithm Time: 21446.48 ms
+Optimal Time: 355.23 ms
+Algorithm Time / Optimal Time Ratio: 60.37
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_820.txt
+Algorithm Time: 21074.63 ms
+Optimal Time: 162.34 ms
+Algorithm Time / Optimal Time Ratio: 129.82
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_834.txt
+Algorithm Time: 20795.86 ms
+Optimal Time: 165.95 ms
+Algorithm Time / Optimal Time Ratio: 125.31
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_161.txt
+Algorithm Time: 21047.07 ms
+Optimal Time: 165.62 ms
+Algorithm Time / Optimal Time Ratio: 127.08
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_607.txt
+Algorithm Time: 21509.63 ms
+Optimal Time: 170.41 ms
+Algorithm Time / Optimal Time Ratio: 126.23
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_613.txt
+Algorithm Time: 20811.70 ms
+Optimal Time: 159.34 ms
+Algorithm Time / Optimal Time Ratio: 130.61
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_175.txt
+Algorithm Time: 21083.66 ms
+Optimal Time: 160.55 ms
+Algorithm Time / Optimal Time Ratio: 131.32
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_149.txt
+Algorithm Time: 20800.04 ms
+Optimal Time: 161.54 ms
+Algorithm Time / Optimal Time Ratio: 128.76
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_388.txt
+Algorithm Time: 20777.66 ms
+Optimal Time: 1270.49 ms
+Algorithm Time / Optimal Time Ratio: 16.35
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_405.txt
+Algorithm Time: 21170.53 ms
+Optimal Time: 356.83 ms
+Algorithm Time / Optimal Time Ratio: 59.33
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_363.txt
+Algorithm Time: 21527.90 ms
+Optimal Time: 214.58 ms
+Algorithm Time / Optimal Time Ratio: 100.33
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_377.txt
+Algorithm Time: 21629.89 ms
+Optimal Time: 197.17 ms
+Algorithm Time / Optimal Time Ratio: 109.70
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_411.txt
+Algorithm Time: 21339.17 ms
+Optimal Time: 204.19 ms
+Algorithm Time / Optimal Time Ratio: 104.51
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_439.txt
+Algorithm Time: 20886.76 ms
+Optimal Time: 187.66 ms
+Algorithm Time / Optimal Time Ratio: 111.30
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_415.txt
+Algorithm Time: 20620.32 ms
+Optimal Time: 198.02 ms
+Algorithm Time / Optimal Time Ratio: 104.13
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_373.txt
+Algorithm Time: 20928.17 ms
+Optimal Time: 166.82 ms
+Algorithm Time / Optimal Time Ratio: 125.45
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_367.txt
+Algorithm Time: 20565.46 ms
+Optimal Time: 164.51 ms
+Algorithm Time / Optimal Time Ratio: 125.01
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_401.txt
+Algorithm Time: 20857.85 ms
+Optimal Time: 167.23 ms
+Algorithm Time / Optimal Time Ratio: 124.73
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_429.txt
+Algorithm Time: 21074.10 ms
+Optimal Time: 172.82 ms
+Algorithm Time / Optimal Time Ratio: 121.95
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_398.txt
+Algorithm Time: 20463.92 ms
+Optimal Time: 166.50 ms
+Algorithm Time / Optimal Time Ratio: 122.91
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_171.txt
+Algorithm Time: 20941.40 ms
+Optimal Time: 360.86 ms
+Algorithm Time / Optimal Time Ratio: 58.03
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_617.txt
+Algorithm Time: 21544.77 ms
+Optimal Time: 386.63 ms
+Algorithm Time / Optimal Time Ratio: 55.72
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_603.txt
+Algorithm Time: 21438.39 ms
+Optimal Time: 388.09 ms
+Algorithm Time / Optimal Time Ratio: 55.24
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_165.txt
+Algorithm Time: 20946.34 ms
+Optimal Time: 157.84 ms
+Algorithm Time / Optimal Time Ratio: 132.71
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_159.txt
+Algorithm Time: 20870.40 ms
+Optimal Time: 368.25 ms
+Algorithm Time / Optimal Time Ratio: 56.67
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_818.txt
+Algorithm Time: 20891.21 ms
+Optimal Time: 485.86 ms
+Algorithm Time / Optimal Time Ratio: 43.00
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_830.txt
+Algorithm Time: 21307.43 ms
+Optimal Time: 173.07 ms
+Algorithm Time / Optimal Time Ratio: 123.12
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_824.txt
+Algorithm Time: 21035.75 ms
+Optimal Time: 173.82 ms
+Algorithm Time / Optimal Time Ratio: 121.02
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_763.txt
+Algorithm Time: 21108.08 ms
+Optimal Time: 160.10 ms
+Algorithm Time / Optimal Time Ratio: 131.84
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_777.txt
+Algorithm Time: 20945.30 ms
+Optimal Time: 413.18 ms
+Algorithm Time / Optimal Time Ratio: 50.69
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_987.txt
+Algorithm Time: 21501.95 ms
+Optimal Time: 373.75 ms
+Algorithm Time / Optimal Time Ratio: 57.53
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_993.txt
+Algorithm Time: 20919.91 ms
+Optimal Time: 164.56 ms
+Algorithm Time / Optimal Time Ratio: 127.13
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_978.txt
+Algorithm Time: 21476.11 ms
+Optimal Time: 156.53 ms
+Algorithm Time / Optimal Time Ratio: 137.20
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_33.txt
+Algorithm Time: 21236.94 ms
+Optimal Time: 199.99 ms
+Algorithm Time / Optimal Time Ratio: 106.19
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_944.txt
+Algorithm Time: 21153.49 ms
+Optimal Time: 165.94 ms
+Algorithm Time / Optimal Time Ratio: 127.48
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_950.txt
+Algorithm Time: 21016.71 ms
+Optimal Time: 162.28 ms
+Algorithm Time / Optimal Time Ratio: 129.51
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_788.txt
+Algorithm Time: 20449.27 ms
+Optimal Time: 202.32 ms
+Algorithm Time / Optimal Time Ratio: 101.07
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_27.txt
+Algorithm Time: 20717.34 ms
+Optimal Time: 165.20 ms
+Algorithm Time / Optimal Time Ratio: 125.41
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_561.txt
+Algorithm Time: 20813.51 ms
+Optimal Time: 175.49 ms
+Algorithm Time / Optimal Time Ratio: 118.60
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_207.txt
+Algorithm Time: 20906.70 ms
+Optimal Time: 164.43 ms
+Algorithm Time / Optimal Time Ratio: 127.15
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_213.txt
+Algorithm Time: 21377.54 ms
+Optimal Time: 380.12 ms
+Algorithm Time / Optimal Time Ratio: 56.24
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_575.txt
+Algorithm Time: 21002.90 ms
+Optimal Time: 198.89 ms
+Algorithm Time / Optimal Time Ratio: 105.60
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_549.txt
+Algorithm Time: 21465.50 ms
+Optimal Time: 376.67 ms
+Algorithm Time / Optimal Time Ratio: 56.99
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_548.txt
+Algorithm Time: 20674.48 ms
+Optimal Time: 165.94 ms
+Algorithm Time / Optimal Time Ratio: 124.59
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_212.txt
+Algorithm Time: 20882.34 ms
+Optimal Time: 173.86 ms
+Algorithm Time / Optimal Time Ratio: 120.11
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_574.txt
+Algorithm Time: 20977.80 ms
+Optimal Time: 161.43 ms
+Algorithm Time / Optimal Time Ratio: 129.95
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_560.txt
+Algorithm Time: 21073.42 ms
+Optimal Time: 447.02 ms
+Algorithm Time / Optimal Time Ratio: 47.14
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_206.txt
+Algorithm Time: 21285.15 ms
+Optimal Time: 174.10 ms
+Algorithm Time / Optimal Time Ratio: 122.26
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_789.txt
+Algorithm Time: 20852.08 ms
+Optimal Time: 413.22 ms
+Algorithm Time / Optimal Time Ratio: 50.46
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_951.txt
+Algorithm Time: 20797.16 ms
+Optimal Time: 171.27 ms
+Algorithm Time / Optimal Time Ratio: 121.43
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_26.txt
+Algorithm Time: 21109.61 ms
+Optimal Time: 358.19 ms
+Algorithm Time / Optimal Time Ratio: 58.93
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_32.txt
+Algorithm Time: 21150.07 ms
+Optimal Time: 166.52 ms
+Algorithm Time / Optimal Time Ratio: 127.01
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_945.txt
+Algorithm Time: 21098.51 ms
+Optimal Time: 530.07 ms
+Algorithm Time / Optimal Time Ratio: 39.80
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_979.txt
+Algorithm Time: 21030.80 ms
+Optimal Time: 155.89 ms
+Algorithm Time / Optimal Time Ratio: 134.91
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_992.txt
+Algorithm Time: 20746.40 ms
+Optimal Time: 367.94 ms
+Algorithm Time / Optimal Time Ratio: 56.39
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_986.txt
+Algorithm Time: 20953.90 ms
+Optimal Time: 176.03 ms
+Algorithm Time / Optimal Time Ratio: 119.03
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_776.txt
+Algorithm Time: 21071.61 ms
+Optimal Time: 164.89 ms
+Algorithm Time / Optimal Time Ratio: 127.79
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_762.txt
+Algorithm Time: 21013.40 ms
+Optimal Time: 177.33 ms
+Algorithm Time / Optimal Time Ratio: 118.50
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_825.txt
+Algorithm Time: 21303.03 ms
+Optimal Time: 439.18 ms
+Algorithm Time / Optimal Time Ratio: 48.51
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_831.txt
+Algorithm Time: 21080.54 ms
+Optimal Time: 181.26 ms
+Algorithm Time / Optimal Time Ratio: 116.30
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_819.txt
+Algorithm Time: 20830.56 ms
+Optimal Time: 158.48 ms
+Algorithm Time / Optimal Time Ratio: 131.44
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_158.txt
+Algorithm Time: 20814.04 ms
+Optimal Time: 170.43 ms
+Algorithm Time / Optimal Time Ratio: 122.12
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_602.txt
+Algorithm Time: 20941.29 ms
+Optimal Time: 158.59 ms
+Algorithm Time / Optimal Time Ratio: 132.05
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_164.txt
+Algorithm Time: 21142.80 ms
+Optimal Time: 162.94 ms
+Algorithm Time / Optimal Time Ratio: 129.76
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_170.txt
+Algorithm Time: 20604.88 ms
+Optimal Time: 167.75 ms
+Algorithm Time / Optimal Time Ratio: 122.83
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_616.txt
+Algorithm Time: 21398.02 ms
+Optimal Time: 169.58 ms
+Algorithm Time / Optimal Time Ratio: 126.18
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_399.txt
+Algorithm Time: 21113.22 ms
+Optimal Time: 205.06 ms
+Algorithm Time / Optimal Time Ratio: 102.96
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_428.txt
+Algorithm Time: 21000.96 ms
+Optimal Time: 163.71 ms
+Algorithm Time / Optimal Time Ratio: 128.28
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_366.txt
+Algorithm Time: 20925.31 ms
+Optimal Time: 406.31 ms
+Algorithm Time / Optimal Time Ratio: 51.50
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_400.txt
+Algorithm Time: 20905.15 ms
+Optimal Time: 166.38 ms
+Algorithm Time / Optimal Time Ratio: 125.65
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_414.txt
+Algorithm Time: 21271.97 ms
+Optimal Time: 166.87 ms
+Algorithm Time / Optimal Time Ratio: 127.48
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_372.txt
+Algorithm Time: 21080.53 ms
+Optimal Time: 456.58 ms
+Algorithm Time / Optimal Time Ratio: 46.17
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_402.txt
+Algorithm Time: 21109.82 ms
+Optimal Time: 161.61 ms
+Algorithm Time / Optimal Time Ratio: 130.62
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_364.txt
+Algorithm Time: 20429.56 ms
+Optimal Time: 158.38 ms
+Algorithm Time / Optimal Time Ratio: 128.99
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_370.txt
+Algorithm Time: 21221.50 ms
+Optimal Time: 179.77 ms
+Algorithm Time / Optimal Time Ratio: 118.04
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_416.txt
+Algorithm Time: 20203.98 ms
+Optimal Time: 165.67 ms
+Algorithm Time / Optimal Time Ratio: 121.95
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_358.txt
+Algorithm Time: 20914.61 ms
+Optimal Time: 166.69 ms
+Algorithm Time / Optimal Time Ratio: 125.47
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_166.txt
+Algorithm Time: 21154.00 ms
+Optimal Time: 445.46 ms
+Algorithm Time / Optimal Time Ratio: 47.49
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_600.txt
+Algorithm Time: 20817.74 ms
+Optimal Time: 166.19 ms
+Algorithm Time / Optimal Time Ratio: 125.26
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_614.txt
+Algorithm Time: 21395.66 ms
+Optimal Time: 170.05 ms
+Algorithm Time / Optimal Time Ratio: 125.82
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_172.txt
+Algorithm Time: 20898.82 ms
+Optimal Time: 361.98 ms
+Algorithm Time / Optimal Time Ratio: 57.73
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_628.txt
+Algorithm Time: 21122.72 ms
+Optimal Time: 175.40 ms
+Algorithm Time / Optimal Time Ratio: 120.43
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_199.txt
+Algorithm Time: 20543.04 ms
+Optimal Time: 164.64 ms
+Algorithm Time / Optimal Time Ratio: 124.78
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_827.txt
+Algorithm Time: 20743.48 ms
+Optimal Time: 335.49 ms
+Algorithm Time / Optimal Time Ratio: 61.83
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_833.txt
+Algorithm Time: 21144.96 ms
+Optimal Time: 170.26 ms
+Algorithm Time / Optimal Time Ratio: 124.19
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_774.txt
+Algorithm Time: 21078.63 ms
+Optimal Time: 164.95 ms
+Algorithm Time / Optimal Time Ratio: 127.79
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_760.txt
+Algorithm Time: 21145.47 ms
+Optimal Time: 168.12 ms
+Algorithm Time / Optimal Time Ratio: 125.78
+Algorithm Weight / Optimal Weight Ratio: 1.32
+
+Graph: ergnp_2000_3_748.txt
+Algorithm Time: 21582.78 ms
+Optimal Time: 421.19 ms
+Algorithm Time / Optimal Time Ratio: 51.24
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_990.txt
+Algorithm Time: 20853.42 ms
+Optimal Time: 168.76 ms
+Algorithm Time / Optimal Time Ratio: 123.57
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_984.txt
+Algorithm Time: 21509.05 ms
+Optimal Time: 156.69 ms
+Algorithm Time / Optimal Time Ratio: 137.27
+Algorithm Weight / Optimal Weight Ratio: 1.32
+
+Graph: ergnp_2000_3_18.txt
+Algorithm Time: 21213.81 ms
+Optimal Time: 367.98 ms
+Algorithm Time / Optimal Time Ratio: 57.65
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_24.txt
+Algorithm Time: 21254.54 ms
+Optimal Time: 183.47 ms
+Algorithm Time / Optimal Time Ratio: 115.85
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_953.txt
+Algorithm Time: 20761.30 ms
+Optimal Time: 159.70 ms
+Algorithm Time / Optimal Time Ratio: 130.00
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_947.txt
+Algorithm Time: 20734.75 ms
+Optimal Time: 163.78 ms
+Algorithm Time / Optimal Time Ratio: 126.60
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_30.txt
+Algorithm Time: 20482.15 ms
+Optimal Time: 378.21 ms
+Algorithm Time / Optimal Time Ratio: 54.16
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_576.txt
+Algorithm Time: 21636.25 ms
+Optimal Time: 177.57 ms
+Algorithm Time / Optimal Time Ratio: 121.85
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_210.txt
+Algorithm Time: 20992.77 ms
+Optimal Time: 182.77 ms
+Algorithm Time / Optimal Time Ratio: 114.86
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_204.txt
+Algorithm Time: 21022.24 ms
+Optimal Time: 164.00 ms
+Algorithm Time / Optimal Time Ratio: 128.19
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_562.txt
+Algorithm Time: 20975.83 ms
+Optimal Time: 157.81 ms
+Algorithm Time / Optimal Time Ratio: 132.92
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_238.txt
+Algorithm Time: 20873.80 ms
+Optimal Time: 170.18 ms
+Algorithm Time / Optimal Time Ratio: 122.66
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_589.txt
+Algorithm Time: 21027.09 ms
+Optimal Time: 160.15 ms
+Algorithm Time / Optimal Time Ratio: 131.30
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_588.txt
+Algorithm Time: 20697.16 ms
+Optimal Time: 159.45 ms
+Algorithm Time / Optimal Time Ratio: 129.81
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_239.txt
+Algorithm Time: 21243.23 ms
+Optimal Time: 170.84 ms
+Algorithm Time / Optimal Time Ratio: 124.34
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_205.txt
+Algorithm Time: 21322.31 ms
+Optimal Time: 188.55 ms
+Algorithm Time / Optimal Time Ratio: 113.08
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_563.txt
+Algorithm Time: 21476.77 ms
+Optimal Time: 169.28 ms
+Algorithm Time / Optimal Time Ratio: 126.87
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_577.txt
+Algorithm Time: 21063.30 ms
+Optimal Time: 187.73 ms
+Algorithm Time / Optimal Time Ratio: 112.20
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_211.txt
+Algorithm Time: 21213.79 ms
+Optimal Time: 370.29 ms
+Algorithm Time / Optimal Time Ratio: 57.29
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_946.txt
+Algorithm Time: 20969.30 ms
+Optimal Time: 167.81 ms
+Algorithm Time / Optimal Time Ratio: 124.96
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_31.txt
+Algorithm Time: 21384.51 ms
+Optimal Time: 375.23 ms
+Algorithm Time / Optimal Time Ratio: 56.99
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_25.txt
+Algorithm Time: 21105.93 ms
+Optimal Time: 339.02 ms
+Algorithm Time / Optimal Time Ratio: 62.26
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_952.txt
+Algorithm Time: 20997.76 ms
+Optimal Time: 164.18 ms
+Algorithm Time / Optimal Time Ratio: 127.89
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_19.txt
+Algorithm Time: 21053.98 ms
+Optimal Time: 168.01 ms
+Algorithm Time / Optimal Time Ratio: 125.31
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_985.txt
+Algorithm Time: 20836.86 ms
+Optimal Time: 192.67 ms
+Algorithm Time / Optimal Time Ratio: 108.15
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_991.txt
+Algorithm Time: 20896.63 ms
+Optimal Time: 160.84 ms
+Algorithm Time / Optimal Time Ratio: 129.92
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_749.txt
+Algorithm Time: 21147.56 ms
+Optimal Time: 168.41 ms
+Algorithm Time / Optimal Time Ratio: 125.57
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_761.txt
+Algorithm Time: 20936.38 ms
+Optimal Time: 173.02 ms
+Algorithm Time / Optimal Time Ratio: 121.01
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_775.txt
+Algorithm Time: 21393.18 ms
+Optimal Time: 180.91 ms
+Algorithm Time / Optimal Time Ratio: 118.25
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_832.txt
+Algorithm Time: 20989.22 ms
+Optimal Time: 171.57 ms
+Algorithm Time / Optimal Time Ratio: 122.34
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_198.txt
+Algorithm Time: 20950.70 ms
+Optimal Time: 178.64 ms
+Algorithm Time / Optimal Time Ratio: 117.28
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_826.txt
+Algorithm Time: 21098.55 ms
+Optimal Time: 156.65 ms
+Algorithm Time / Optimal Time Ratio: 134.69
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_629.txt
+Algorithm Time: 20761.35 ms
+Optimal Time: 160.17 ms
+Algorithm Time / Optimal Time Ratio: 129.62
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_615.txt
+Algorithm Time: 21141.45 ms
+Optimal Time: 168.39 ms
+Algorithm Time / Optimal Time Ratio: 125.55
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_173.txt
+Algorithm Time: 20442.10 ms
+Optimal Time: 156.45 ms
+Algorithm Time / Optimal Time Ratio: 130.66
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_167.txt
+Algorithm Time: 20886.89 ms
+Optimal Time: 540.84 ms
+Algorithm Time / Optimal Time Ratio: 38.62
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_601.txt
+Algorithm Time: 20540.90 ms
+Optimal Time: 163.51 ms
+Algorithm Time / Optimal Time Ratio: 125.62
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_359.txt
+Algorithm Time: 20989.14 ms
+Optimal Time: 365.64 ms
+Algorithm Time / Optimal Time Ratio: 57.40
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_371.txt
+Algorithm Time: 20831.72 ms
+Optimal Time: 171.09 ms
+Algorithm Time / Optimal Time Ratio: 121.76
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_417.txt
+Algorithm Time: 20765.88 ms
+Optimal Time: 162.65 ms
+Algorithm Time / Optimal Time Ratio: 127.68
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_403.txt
+Algorithm Time: 20900.92 ms
+Optimal Time: 163.43 ms
+Algorithm Time / Optimal Time Ratio: 127.89
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_365.txt
+Algorithm Time: 20920.63 ms
+Optimal Time: 164.31 ms
+Algorithm Time / Optimal Time Ratio: 127.33
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_458.txt
+Algorithm Time: 20959.18 ms
+Optimal Time: 168.78 ms
+Algorithm Time / Optimal Time Ratio: 124.18
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_464.txt
+Algorithm Time: 21143.29 ms
+Optimal Time: 175.83 ms
+Algorithm Time / Optimal Time Ratio: 120.25
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_302.txt
+Algorithm Time: 21196.38 ms
+Optimal Time: 178.14 ms
+Algorithm Time / Optimal Time Ratio: 118.99
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_316.txt
+Algorithm Time: 20453.17 ms
+Optimal Time: 187.76 ms
+Algorithm Time / Optimal Time Ratio: 108.93
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_470.txt
+Algorithm Time: 20846.37 ms
+Optimal Time: 173.95 ms
+Algorithm Time / Optimal Time Ratio: 119.84
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_882.txt
+Algorithm Time: 20516.50 ms
+Optimal Time: 164.42 ms
+Algorithm Time / Optimal Time Ratio: 124.78
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_896.txt
+Algorithm Time: 21047.04 ms
+Optimal Time: 186.08 ms
+Algorithm Time / Optimal Time Ratio: 113.11
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_128.txt
+Algorithm Time: 20722.16 ms
+Optimal Time: 172.21 ms
+Algorithm Time / Optimal Time Ratio: 120.33
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_100.txt
+Algorithm Time: 20911.86 ms
+Optimal Time: 164.81 ms
+Algorithm Time / Optimal Time Ratio: 126.88
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_666.txt
+Algorithm Time: 20854.48 ms
+Optimal Time: 169.36 ms
+Algorithm Time / Optimal Time Ratio: 123.14
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_672.txt
+Algorithm Time: 21526.68 ms
+Optimal Time: 171.89 ms
+Algorithm Time / Optimal Time Ratio: 125.23
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_114.txt
+Algorithm Time: 20729.27 ms
+Optimal Time: 169.41 ms
+Algorithm Time / Optimal Time Ratio: 122.36
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_699.txt
+Algorithm Time: 20630.81 ms
+Optimal Time: 125.57 ms
+Algorithm Time / Optimal Time Ratio: 164.30
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_841.txt
+Algorithm Time: 21303.02 ms
+Optimal Time: 169.36 ms
+Algorithm Time / Optimal Time Ratio: 125.79
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_0.txt
+Algorithm Time: 20905.56 ms
+Optimal Time: 171.97 ms
+Algorithm Time / Optimal Time Ratio: 121.56
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_855.txt
+Algorithm Time: 20708.42 ms
+Optimal Time: 154.51 ms
+Algorithm Time / Optimal Time Ratio: 134.03
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_869.txt
+Algorithm Time: 21335.71 ms
+Optimal Time: 178.49 ms
+Algorithm Time / Optimal Time Ratio: 119.54
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_81.txt
+Algorithm Time: 20750.78 ms
+Optimal Time: 389.68 ms
+Algorithm Time / Optimal Time Ratio: 53.25
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_95.txt
+Algorithm Time: 20934.44 ms
+Optimal Time: 163.15 ms
+Algorithm Time / Optimal Time Ratio: 128.31
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_712.txt
+Algorithm Time: 20708.53 ms
+Optimal Time: 167.43 ms
+Algorithm Time / Optimal Time Ratio: 123.68
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_706.txt
+Algorithm Time: 21187.59 ms
+Optimal Time: 166.19 ms
+Algorithm Time / Optimal Time Ratio: 127.49
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_42.txt
+Algorithm Time: 21112.11 ms
+Optimal Time: 373.86 ms
+Algorithm Time / Optimal Time Ratio: 56.47
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_935.txt
+Algorithm Time: 20597.69 ms
+Optimal Time: 160.74 ms
+Algorithm Time / Optimal Time Ratio: 128.14
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_921.txt
+Algorithm Time: 20941.00 ms
+Optimal Time: 167.40 ms
+Algorithm Time / Optimal Time Ratio: 125.10
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_56.txt
+Algorithm Time: 20935.54 ms
+Optimal Time: 166.26 ms
+Algorithm Time / Optimal Time Ratio: 125.92
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_909.txt
+Algorithm Time: 21338.13 ms
+Optimal Time: 407.85 ms
+Algorithm Time / Optimal Time Ratio: 52.32
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_538.txt
+Algorithm Time: 21691.73 ms
+Optimal Time: 174.50 ms
+Algorithm Time / Optimal Time Ratio: 124.31
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_510.txt
+Algorithm Time: 20813.24 ms
+Optimal Time: 159.97 ms
+Algorithm Time / Optimal Time Ratio: 130.11
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_276.txt
+Algorithm Time: 20953.10 ms
+Optimal Time: 168.08 ms
+Algorithm Time / Optimal Time Ratio: 124.66
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_262.txt
+Algorithm Time: 20662.90 ms
+Optimal Time: 166.87 ms
+Algorithm Time / Optimal Time Ratio: 123.82
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_504.txt
+Algorithm Time: 20689.83 ms
+Optimal Time: 186.92 ms
+Algorithm Time / Optimal Time Ratio: 110.69
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_289.txt
+Algorithm Time: 21115.26 ms
+Optimal Time: 172.66 ms
+Algorithm Time / Optimal Time Ratio: 122.29
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_288.txt
+Algorithm Time: 21580.50 ms
+Optimal Time: 410.13 ms
+Algorithm Time / Optimal Time Ratio: 52.62
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_263.txt
+Algorithm Time: 20710.11 ms
+Optimal Time: 170.99 ms
+Algorithm Time / Optimal Time Ratio: 121.12
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_505.txt
+Algorithm Time: 20557.96 ms
+Optimal Time: 160.40 ms
+Algorithm Time / Optimal Time Ratio: 128.17
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_511.txt
+Algorithm Time: 21354.53 ms
+Optimal Time: 175.61 ms
+Algorithm Time / Optimal Time Ratio: 121.60
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_277.txt
+Algorithm Time: 21324.03 ms
+Optimal Time: 365.50 ms
+Algorithm Time / Optimal Time Ratio: 58.34
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_539.txt
+Algorithm Time: 20750.20 ms
+Optimal Time: 157.87 ms
+Algorithm Time / Optimal Time Ratio: 131.44
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_908.txt
+Algorithm Time: 21127.64 ms
+Optimal Time: 442.09 ms
+Algorithm Time / Optimal Time Ratio: 47.79
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_920.txt
+Algorithm Time: 20884.68 ms
+Optimal Time: 164.86 ms
+Algorithm Time / Optimal Time Ratio: 126.68
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_57.txt
+Algorithm Time: 20749.88 ms
+Optimal Time: 175.28 ms
+Algorithm Time / Optimal Time Ratio: 118.38
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_43.txt
+Algorithm Time: 20904.46 ms
+Optimal Time: 175.17 ms
+Algorithm Time / Optimal Time Ratio: 119.34
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_934.txt
+Algorithm Time: 20569.39 ms
+Optimal Time: 162.79 ms
+Algorithm Time / Optimal Time Ratio: 126.36
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_707.txt
+Algorithm Time: 21054.10 ms
+Optimal Time: 163.05 ms
+Algorithm Time / Optimal Time Ratio: 129.12
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_713.txt
+Algorithm Time: 21041.22 ms
+Optimal Time: 167.48 ms
+Algorithm Time / Optimal Time Ratio: 125.63
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_94.txt
+Algorithm Time: 21356.74 ms
+Optimal Time: 176.85 ms
+Algorithm Time / Optimal Time Ratio: 120.76
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_80.txt
+Algorithm Time: 20670.13 ms
+Optimal Time: 165.63 ms
+Algorithm Time / Optimal Time Ratio: 124.80
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_868.txt
+Algorithm Time: 21327.33 ms
+Optimal Time: 168.63 ms
+Algorithm Time / Optimal Time Ratio: 126.47
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_854.txt
+Algorithm Time: 21405.31 ms
+Optimal Time: 411.16 ms
+Algorithm Time / Optimal Time Ratio: 52.06
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_1.txt
+Algorithm Time: 21877.99 ms
+Optimal Time: 206.89 ms
+Algorithm Time / Optimal Time Ratio: 105.75
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_840.txt
+Algorithm Time: 21035.80 ms
+Optimal Time: 165.61 ms
+Algorithm Time / Optimal Time Ratio: 127.02
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_698.txt
+Algorithm Time: 21044.09 ms
+Optimal Time: 215.89 ms
+Algorithm Time / Optimal Time Ratio: 97.47
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_673.txt
+Algorithm Time: 20770.87 ms
+Optimal Time: 205.41 ms
+Algorithm Time / Optimal Time Ratio: 101.12
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_115.txt
+Algorithm Time: 21225.85 ms
+Optimal Time: 215.20 ms
+Algorithm Time / Optimal Time Ratio: 98.63
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_101.txt
+Algorithm Time: 22043.14 ms
+Optimal Time: 452.41 ms
+Algorithm Time / Optimal Time Ratio: 48.72
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_667.txt
+Algorithm Time: 21638.00 ms
+Optimal Time: 164.23 ms
+Algorithm Time / Optimal Time Ratio: 131.76
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_897.txt
+Algorithm Time: 21144.39 ms
+Optimal Time: 172.09 ms
+Algorithm Time / Optimal Time Ratio: 122.87
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_129.txt
+Algorithm Time: 21114.88 ms
+Optimal Time: 369.02 ms
+Algorithm Time / Optimal Time Ratio: 57.22
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_883.txt
+Algorithm Time: 21211.90 ms
+Optimal Time: 170.11 ms
+Algorithm Time / Optimal Time Ratio: 124.70
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_317.txt
+Algorithm Time: 21847.91 ms
+Optimal Time: 187.21 ms
+Algorithm Time / Optimal Time Ratio: 116.70
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_471.txt
+Algorithm Time: 21574.81 ms
+Optimal Time: 174.19 ms
+Algorithm Time / Optimal Time Ratio: 123.86
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_465.txt
+Algorithm Time: 21577.41 ms
+Optimal Time: 174.61 ms
+Algorithm Time / Optimal Time Ratio: 123.58
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_303.txt
+Algorithm Time: 21674.24 ms
+Optimal Time: 181.43 ms
+Algorithm Time / Optimal Time Ratio: 119.46
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_459.txt
+Algorithm Time: 21551.19 ms
+Optimal Time: 174.95 ms
+Algorithm Time / Optimal Time Ratio: 123.18
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_329.txt
+Algorithm Time: 21389.51 ms
+Optimal Time: 176.93 ms
+Algorithm Time / Optimal Time Ratio: 120.89
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_473.txt
+Algorithm Time: 21426.22 ms
+Optimal Time: 165.77 ms
+Algorithm Time / Optimal Time Ratio: 129.25
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_315.txt
+Algorithm Time: 22091.03 ms
+Optimal Time: 483.63 ms
+Algorithm Time / Optimal Time Ratio: 45.68
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_301.txt
+Algorithm Time: 21525.37 ms
+Optimal Time: 195.27 ms
+Algorithm Time / Optimal Time Ratio: 110.23
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_467.txt
+Algorithm Time: 21773.68 ms
+Optimal Time: 359.37 ms
+Algorithm Time / Optimal Time Ratio: 60.59
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_498.txt
+Algorithm Time: 20798.06 ms
+Optimal Time: 200.23 ms
+Algorithm Time / Optimal Time Ratio: 103.87
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_895.txt
+Algorithm Time: 21294.48 ms
+Optimal Time: 179.21 ms
+Algorithm Time / Optimal Time Ratio: 118.82
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_881.txt
+Algorithm Time: 21351.35 ms
+Optimal Time: 171.09 ms
+Algorithm Time / Optimal Time Ratio: 124.80
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_659.txt
+Algorithm Time: 21489.13 ms
+Optimal Time: 171.83 ms
+Algorithm Time / Optimal Time Ratio: 125.06
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_117.txt
+Algorithm Time: 22444.71 ms
+Optimal Time: 176.79 ms
+Algorithm Time / Optimal Time Ratio: 126.96
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_671.txt
+Algorithm Time: 22487.15 ms
+Optimal Time: 177.48 ms
+Algorithm Time / Optimal Time Ratio: 126.70
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_665.txt
+Algorithm Time: 22048.05 ms
+Optimal Time: 175.82 ms
+Algorithm Time / Optimal Time Ratio: 125.40
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_103.txt
+Algorithm Time: 22832.16 ms
+Optimal Time: 189.62 ms
+Algorithm Time / Optimal Time Ratio: 120.41
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_3.txt
+Algorithm Time: 22699.08 ms
+Optimal Time: 194.93 ms
+Algorithm Time / Optimal Time Ratio: 116.44
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_856.txt
+Algorithm Time: 21941.71 ms
+Optimal Time: 172.77 ms
+Algorithm Time / Optimal Time Ratio: 127.00
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_842.txt
+Algorithm Time: 22631.87 ms
+Optimal Time: 168.32 ms
+Algorithm Time / Optimal Time Ratio: 134.45
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_96.txt
+Algorithm Time: 22210.67 ms
+Optimal Time: 374.75 ms
+Algorithm Time / Optimal Time Ratio: 59.27
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_739.txt
+Algorithm Time: 22243.19 ms
+Optimal Time: 189.46 ms
+Algorithm Time / Optimal Time Ratio: 117.40
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_82.txt
+Algorithm Time: 22275.21 ms
+Optimal Time: 211.69 ms
+Algorithm Time / Optimal Time Ratio: 105.23
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_705.txt
+Algorithm Time: 22390.27 ms
+Optimal Time: 177.01 ms
+Algorithm Time / Optimal Time Ratio: 126.49
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_711.txt
+Algorithm Time: 22162.19 ms
+Optimal Time: 188.49 ms
+Algorithm Time / Optimal Time Ratio: 117.58
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_55.txt
+Algorithm Time: 22120.88 ms
+Optimal Time: 178.97 ms
+Algorithm Time / Optimal Time Ratio: 123.60
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_922.txt
+Algorithm Time: 21945.51 ms
+Optimal Time: 173.02 ms
+Algorithm Time / Optimal Time Ratio: 126.84
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_936.txt
+Algorithm Time: 21731.52 ms
+Optimal Time: 399.81 ms
+Algorithm Time / Optimal Time Ratio: 54.35
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_41.txt
+Algorithm Time: 22612.85 ms
+Optimal Time: 497.48 ms
+Algorithm Time / Optimal Time Ratio: 45.45
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_69.txt
+Algorithm Time: 21790.67 ms
+Optimal Time: 173.85 ms
+Algorithm Time / Optimal Time Ratio: 125.34
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_249.txt
+Algorithm Time: 21605.94 ms
+Optimal Time: 367.04 ms
+Algorithm Time / Optimal Time Ratio: 58.87
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_507.txt
+Algorithm Time: 22444.12 ms
+Optimal Time: 173.67 ms
+Algorithm Time / Optimal Time Ratio: 129.24
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_261.txt
+Algorithm Time: 21619.50 ms
+Optimal Time: 373.96 ms
+Algorithm Time / Optimal Time Ratio: 57.81
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_275.txt
+Algorithm Time: 22382.71 ms
+Optimal Time: 370.06 ms
+Algorithm Time / Optimal Time Ratio: 60.48
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_513.txt
+Algorithm Time: 22442.38 ms
+Optimal Time: 171.57 ms
+Algorithm Time / Optimal Time Ratio: 130.81
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_274.txt
+Algorithm Time: 21253.09 ms
+Optimal Time: 171.46 ms
+Algorithm Time / Optimal Time Ratio: 123.95
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_512.txt
+Algorithm Time: 22055.81 ms
+Optimal Time: 170.98 ms
+Algorithm Time / Optimal Time Ratio: 128.99
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_506.txt
+Algorithm Time: 22151.26 ms
+Optimal Time: 442.50 ms
+Algorithm Time / Optimal Time Ratio: 50.06
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_260.txt
+Algorithm Time: 22043.62 ms
+Optimal Time: 184.01 ms
+Algorithm Time / Optimal Time Ratio: 119.80
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_248.txt
+Algorithm Time: 21960.75 ms
+Optimal Time: 190.85 ms
+Algorithm Time / Optimal Time Ratio: 115.07
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_68.txt
+Algorithm Time: 21888.71 ms
+Optimal Time: 179.90 ms
+Algorithm Time / Optimal Time Ratio: 121.67
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_937.txt
+Algorithm Time: 22642.65 ms
+Optimal Time: 187.69 ms
+Algorithm Time / Optimal Time Ratio: 120.64
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_40.txt
+Algorithm Time: 21803.90 ms
+Optimal Time: 389.59 ms
+Algorithm Time / Optimal Time Ratio: 55.97
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_54.txt
+Algorithm Time: 21441.27 ms
+Optimal Time: 176.98 ms
+Algorithm Time / Optimal Time Ratio: 121.15
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_923.txt
+Algorithm Time: 22811.08 ms
+Optimal Time: 412.75 ms
+Algorithm Time / Optimal Time Ratio: 55.27
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_710.txt
+Algorithm Time: 21494.82 ms
+Optimal Time: 185.33 ms
+Algorithm Time / Optimal Time Ratio: 115.98
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_704.txt
+Algorithm Time: 22177.19 ms
+Optimal Time: 169.15 ms
+Algorithm Time / Optimal Time Ratio: 131.11
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_83.txt
+Algorithm Time: 22308.04 ms
+Optimal Time: 172.33 ms
+Algorithm Time / Optimal Time Ratio: 129.45
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_97.txt
+Algorithm Time: 21872.87 ms
+Optimal Time: 183.05 ms
+Algorithm Time / Optimal Time Ratio: 119.49
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_738.txt
+Algorithm Time: 22103.84 ms
+Optimal Time: 170.07 ms
+Algorithm Time / Optimal Time Ratio: 129.97
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_843.txt
+Algorithm Time: 21972.94 ms
+Optimal Time: 165.93 ms
+Algorithm Time / Optimal Time Ratio: 132.42
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_857.txt
+Algorithm Time: 22192.49 ms
+Optimal Time: 396.22 ms
+Algorithm Time / Optimal Time Ratio: 56.01
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_2.txt
+Algorithm Time: 22343.15 ms
+Optimal Time: 177.59 ms
+Algorithm Time / Optimal Time Ratio: 125.81
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_664.txt
+Algorithm Time: 22248.92 ms
+Optimal Time: 166.38 ms
+Algorithm Time / Optimal Time Ratio: 133.73
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_102.txt
+Algorithm Time: 22336.07 ms
+Optimal Time: 195.34 ms
+Algorithm Time / Optimal Time Ratio: 114.34
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_116.txt
+Algorithm Time: 22375.33 ms
+Optimal Time: 190.10 ms
+Algorithm Time / Optimal Time Ratio: 117.70
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_670.txt
+Algorithm Time: 22979.71 ms
+Optimal Time: 177.88 ms
+Algorithm Time / Optimal Time Ratio: 129.19
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_658.txt
+Algorithm Time: 22191.27 ms
+Optimal Time: 184.98 ms
+Algorithm Time / Optimal Time Ratio: 119.97
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_880.txt
+Algorithm Time: 22248.21 ms
+Optimal Time: 387.87 ms
+Algorithm Time / Optimal Time Ratio: 57.36
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_894.txt
+Algorithm Time: 22227.86 ms
+Optimal Time: 397.02 ms
+Algorithm Time / Optimal Time Ratio: 55.99
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_499.txt
+Algorithm Time: 22452.84 ms
+Optimal Time: 186.14 ms
+Algorithm Time / Optimal Time Ratio: 120.62
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_300.txt
+Algorithm Time: 21915.49 ms
+Optimal Time: 214.48 ms
+Algorithm Time / Optimal Time Ratio: 102.18
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_466.txt
+Algorithm Time: 22399.74 ms
+Optimal Time: 470.34 ms
+Algorithm Time / Optimal Time Ratio: 47.63
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_472.txt
+Algorithm Time: 22085.38 ms
+Optimal Time: 184.28 ms
+Algorithm Time / Optimal Time Ratio: 119.85
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_314.txt
+Algorithm Time: 24513.69 ms
+Optimal Time: 411.23 ms
+Algorithm Time / Optimal Time Ratio: 59.61
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_328.txt
+Algorithm Time: 23162.39 ms
+Optimal Time: 194.77 ms
+Algorithm Time / Optimal Time Ratio: 118.92
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_310.txt
+Algorithm Time: 22623.85 ms
+Optimal Time: 188.45 ms
+Algorithm Time / Optimal Time Ratio: 120.05
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_476.txt
+Algorithm Time: 22866.79 ms
+Optimal Time: 420.38 ms
+Algorithm Time / Optimal Time Ratio: 54.40
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_462.txt
+Algorithm Time: 22208.82 ms
+Optimal Time: 178.52 ms
+Algorithm Time / Optimal Time Ratio: 124.40
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_304.txt
+Algorithm Time: 22812.84 ms
+Optimal Time: 215.91 ms
+Algorithm Time / Optimal Time Ratio: 105.66
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_338.txt
+Algorithm Time: 22505.94 ms
+Optimal Time: 185.60 ms
+Algorithm Time / Optimal Time Ratio: 121.26
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_489.txt
+Algorithm Time: 22568.94 ms
+Optimal Time: 162.22 ms
+Algorithm Time / Optimal Time Ratio: 139.13
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_674.txt
+Algorithm Time: 22041.10 ms
+Optimal Time: 176.25 ms
+Algorithm Time / Optimal Time Ratio: 125.05
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_112.txt
+Algorithm Time: 22603.36 ms
+Optimal Time: 178.38 ms
+Algorithm Time / Optimal Time Ratio: 126.71
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_106.txt
+Algorithm Time: 22088.33 ms
+Optimal Time: 177.67 ms
+Algorithm Time / Optimal Time Ratio: 124.32
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_660.txt
+Algorithm Time: 22716.59 ms
+Optimal Time: 535.01 ms
+Algorithm Time / Optimal Time Ratio: 42.46
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_890.txt
+Algorithm Time: 22115.98 ms
+Optimal Time: 199.81 ms
+Algorithm Time / Optimal Time Ratio: 110.69
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_648.txt
+Algorithm Time: 22923.52 ms
+Optimal Time: 178.44 ms
+Algorithm Time / Optimal Time Ratio: 128.46
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_884.txt
+Algorithm Time: 22262.29 ms
+Optimal Time: 198.78 ms
+Algorithm Time / Optimal Time Ratio: 112.00
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_6.txt
+Algorithm Time: 22435.39 ms
+Optimal Time: 175.91 ms
+Algorithm Time / Optimal Time Ratio: 127.54
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_853.txt
+Algorithm Time: 22216.68 ms
+Optimal Time: 176.31 ms
+Algorithm Time / Optimal Time Ratio: 126.01
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_847.txt
+Algorithm Time: 22746.39 ms
+Optimal Time: 197.11 ms
+Algorithm Time / Optimal Time Ratio: 115.40
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_700.txt
+Algorithm Time: 22145.15 ms
+Optimal Time: 181.33 ms
+Algorithm Time / Optimal Time Ratio: 122.13
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_714.txt
+Algorithm Time: 22922.66 ms
+Optimal Time: 174.70 ms
+Algorithm Time / Optimal Time Ratio: 131.21
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_93.txt
+Algorithm Time: 22089.46 ms
+Optimal Time: 178.38 ms
+Algorithm Time / Optimal Time Ratio: 123.84
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_87.txt
+Algorithm Time: 22199.43 ms
+Optimal Time: 168.66 ms
+Algorithm Time / Optimal Time Ratio: 131.62
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_728.txt
+Algorithm Time: 23071.12 ms
+Optimal Time: 180.46 ms
+Algorithm Time / Optimal Time Ratio: 127.84
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_78.txt
+Algorithm Time: 22260.04 ms
+Optimal Time: 178.11 ms
+Algorithm Time / Optimal Time Ratio: 124.98
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_927.txt
+Algorithm Time: 22843.83 ms
+Optimal Time: 393.97 ms
+Algorithm Time / Optimal Time Ratio: 57.98
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_50.txt
+Algorithm Time: 22369.26 ms
+Optimal Time: 192.90 ms
+Algorithm Time / Optimal Time Ratio: 115.96
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_44.txt
+Algorithm Time: 22201.70 ms
+Optimal Time: 184.59 ms
+Algorithm Time / Optimal Time Ratio: 120.27
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_933.txt
+Algorithm Time: 22121.51 ms
+Optimal Time: 184.37 ms
+Algorithm Time / Optimal Time Ratio: 119.98
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_264.txt
+Algorithm Time: 22765.34 ms
+Optimal Time: 191.69 ms
+Algorithm Time / Optimal Time Ratio: 118.76
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_502.txt
+Algorithm Time: 22162.43 ms
+Optimal Time: 174.19 ms
+Algorithm Time / Optimal Time Ratio: 127.23
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_516.txt
+Algorithm Time: 22645.72 ms
+Optimal Time: 420.20 ms
+Algorithm Time / Optimal Time Ratio: 53.89
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_270.txt
+Algorithm Time: 22159.71 ms
+Optimal Time: 180.05 ms
+Algorithm Time / Optimal Time Ratio: 123.08
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_258.txt
+Algorithm Time: 22691.05 ms
+Optimal Time: 184.31 ms
+Algorithm Time / Optimal Time Ratio: 123.11
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_259.txt
+Algorithm Time: 22049.68 ms
+Optimal Time: 366.20 ms
+Algorithm Time / Optimal Time Ratio: 60.21
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_517.txt
+Algorithm Time: 22541.83 ms
+Optimal Time: 198.29 ms
+Algorithm Time / Optimal Time Ratio: 113.68
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_271.txt
+Algorithm Time: 22783.58 ms
+Optimal Time: 178.87 ms
+Algorithm Time / Optimal Time Ratio: 127.37
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_265.txt
+Algorithm Time: 22161.10 ms
+Optimal Time: 174.07 ms
+Algorithm Time / Optimal Time Ratio: 127.31
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_503.txt
+Algorithm Time: 22412.47 ms
+Optimal Time: 378.48 ms
+Algorithm Time / Optimal Time Ratio: 59.22
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_45.txt
+Algorithm Time: 22224.12 ms
+Optimal Time: 166.36 ms
+Algorithm Time / Optimal Time Ratio: 133.59
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_932.txt
+Algorithm Time: 21168.20 ms
+Optimal Time: 186.90 ms
+Algorithm Time / Optimal Time Ratio: 113.26
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_926.txt
+Algorithm Time: 21009.49 ms
+Optimal Time: 169.30 ms
+Algorithm Time / Optimal Time Ratio: 124.10
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_51.txt
+Algorithm Time: 21309.63 ms
+Optimal Time: 174.52 ms
+Algorithm Time / Optimal Time Ratio: 122.11
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_79.txt
+Algorithm Time: 20622.95 ms
+Optimal Time: 181.47 ms
+Algorithm Time / Optimal Time Ratio: 113.64
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_86.txt
+Algorithm Time: 20731.52 ms
+Optimal Time: 157.71 ms
+Algorithm Time / Optimal Time Ratio: 131.45
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_729.txt
+Algorithm Time: 21006.97 ms
+Optimal Time: 161.39 ms
+Algorithm Time / Optimal Time Ratio: 130.17
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_92.txt
+Algorithm Time: 21235.20 ms
+Optimal Time: 438.96 ms
+Algorithm Time / Optimal Time Ratio: 48.38
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_715.txt
+Algorithm Time: 21009.85 ms
+Optimal Time: 147.64 ms
+Algorithm Time / Optimal Time Ratio: 142.31
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_701.txt
+Algorithm Time: 20350.57 ms
+Optimal Time: 177.83 ms
+Algorithm Time / Optimal Time Ratio: 114.44
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_846.txt
+Algorithm Time: 20333.22 ms
+Optimal Time: 166.64 ms
+Algorithm Time / Optimal Time Ratio: 122.02
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_852.txt
+Algorithm Time: 21235.70 ms
+Optimal Time: 182.88 ms
+Algorithm Time / Optimal Time Ratio: 116.12
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_7.txt
+Algorithm Time: 21129.28 ms
+Optimal Time: 167.19 ms
+Algorithm Time / Optimal Time Ratio: 126.38
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_885.txt
+Algorithm Time: 20539.00 ms
+Optimal Time: 348.89 ms
+Algorithm Time / Optimal Time Ratio: 58.87
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_649.txt
+Algorithm Time: 20868.36 ms
+Optimal Time: 161.06 ms
+Algorithm Time / Optimal Time Ratio: 129.57
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_891.txt
+Algorithm Time: 21044.34 ms
+Optimal Time: 344.51 ms
+Algorithm Time / Optimal Time Ratio: 61.08
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_107.txt
+Algorithm Time: 20454.66 ms
+Optimal Time: 170.99 ms
+Algorithm Time / Optimal Time Ratio: 119.62
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_661.txt
+Algorithm Time: 21148.32 ms
+Optimal Time: 192.41 ms
+Algorithm Time / Optimal Time Ratio: 109.91
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_675.txt
+Algorithm Time: 20832.59 ms
+Optimal Time: 323.39 ms
+Algorithm Time / Optimal Time Ratio: 64.42
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_113.txt
+Algorithm Time: 20959.99 ms
+Optimal Time: 160.33 ms
+Algorithm Time / Optimal Time Ratio: 130.73
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_488.txt
+Algorithm Time: 20956.02 ms
+Optimal Time: 169.66 ms
+Algorithm Time / Optimal Time Ratio: 123.52
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_339.txt
+Algorithm Time: 20611.42 ms
+Optimal Time: 167.56 ms
+Algorithm Time / Optimal Time Ratio: 123.01
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_463.txt
+Algorithm Time: 20741.15 ms
+Optimal Time: 169.61 ms
+Algorithm Time / Optimal Time Ratio: 122.29
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_305.txt
+Algorithm Time: 20746.00 ms
+Optimal Time: 162.48 ms
+Algorithm Time / Optimal Time Ratio: 127.68
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_311.txt
+Algorithm Time: 20851.69 ms
+Optimal Time: 369.04 ms
+Algorithm Time / Optimal Time Ratio: 56.50
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_477.txt
+Algorithm Time: 20645.21 ms
+Optimal Time: 175.12 ms
+Algorithm Time / Optimal Time Ratio: 117.89
+Algorithm Weight / Optimal Weight Ratio: 1.23
+
+Graph: ergnp_2000_3_307.txt
+Algorithm Time: 20780.92 ms
+Optimal Time: 181.90 ms
+Algorithm Time / Optimal Time Ratio: 114.24
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_461.txt
+Algorithm Time: 20746.21 ms
+Optimal Time: 169.13 ms
+Algorithm Time / Optimal Time Ratio: 122.66
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_475.txt
+Algorithm Time: 20400.05 ms
+Optimal Time: 164.40 ms
+Algorithm Time / Optimal Time Ratio: 124.09
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_313.txt
+Algorithm Time: 20746.69 ms
+Optimal Time: 164.92 ms
+Algorithm Time / Optimal Time Ratio: 125.80
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_449.txt
+Algorithm Time: 20903.26 ms
+Optimal Time: 167.62 ms
+Algorithm Time / Optimal Time Ratio: 124.70
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_663.txt
+Algorithm Time: 20958.12 ms
+Optimal Time: 164.67 ms
+Algorithm Time / Optimal Time Ratio: 127.28
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_105.txt
+Algorithm Time: 21005.02 ms
+Optimal Time: 165.03 ms
+Algorithm Time / Optimal Time Ratio: 127.28
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_111.txt
+Algorithm Time: 20734.28 ms
+Optimal Time: 187.94 ms
+Algorithm Time / Optimal Time Ratio: 110.32
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_677.txt
+Algorithm Time: 21336.91 ms
+Optimal Time: 165.60 ms
+Algorithm Time / Optimal Time Ratio: 128.84
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_887.txt
+Algorithm Time: 21199.50 ms
+Optimal Time: 377.05 ms
+Algorithm Time / Optimal Time Ratio: 56.22
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_139.txt
+Algorithm Time: 20664.40 ms
+Optimal Time: 354.00 ms
+Algorithm Time / Optimal Time Ratio: 58.37
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_893.txt
+Algorithm Time: 21111.68 ms
+Optimal Time: 165.41 ms
+Algorithm Time / Optimal Time Ratio: 127.64
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_878.txt
+Algorithm Time: 21337.99 ms
+Optimal Time: 165.50 ms
+Algorithm Time / Optimal Time Ratio: 128.93
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_844.txt
+Algorithm Time: 21043.16 ms
+Optimal Time: 161.08 ms
+Algorithm Time / Optimal Time Ratio: 130.64
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_5.txt
+Algorithm Time: 20805.99 ms
+Optimal Time: 151.54 ms
+Algorithm Time / Optimal Time Ratio: 137.30
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_688.txt
+Algorithm Time: 21133.66 ms
+Optimal Time: 485.98 ms
+Algorithm Time / Optimal Time Ratio: 43.49
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_850.txt
+Algorithm Time: 20974.32 ms
+Optimal Time: 171.51 ms
+Algorithm Time / Optimal Time Ratio: 122.29
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_717.txt
+Algorithm Time: 20954.90 ms
+Optimal Time: 168.41 ms
+Algorithm Time / Optimal Time Ratio: 124.43
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_703.txt
+Algorithm Time: 20886.95 ms
+Optimal Time: 167.35 ms
+Algorithm Time / Optimal Time Ratio: 124.81
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_84.txt
+Algorithm Time: 21096.79 ms
+Optimal Time: 169.28 ms
+Algorithm Time / Optimal Time Ratio: 124.62
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_90.txt
+Algorithm Time: 21338.88 ms
+Optimal Time: 165.78 ms
+Algorithm Time / Optimal Time Ratio: 128.72
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_918.txt
+Algorithm Time: 20415.72 ms
+Optimal Time: 161.65 ms
+Algorithm Time / Optimal Time Ratio: 126.29
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_930.txt
+Algorithm Time: 20487.57 ms
+Optimal Time: 185.12 ms
+Algorithm Time / Optimal Time Ratio: 110.67
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_47.txt
+Algorithm Time: 21215.43 ms
+Optimal Time: 165.90 ms
+Algorithm Time / Optimal Time Ratio: 127.88
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_53.txt
+Algorithm Time: 21187.96 ms
+Optimal Time: 358.07 ms
+Algorithm Time / Optimal Time Ratio: 59.17
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_924.txt
+Algorithm Time: 21250.79 ms
+Optimal Time: 393.14 ms
+Algorithm Time / Optimal Time Ratio: 54.05
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_273.txt
+Algorithm Time: 20938.62 ms
+Optimal Time: 172.71 ms
+Algorithm Time / Optimal Time Ratio: 121.24
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_515.txt
+Algorithm Time: 21249.14 ms
+Optimal Time: 167.32 ms
+Algorithm Time / Optimal Time Ratio: 127.00
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_501.txt
+Algorithm Time: 20499.36 ms
+Optimal Time: 169.53 ms
+Algorithm Time / Optimal Time Ratio: 120.92
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_267.txt
+Algorithm Time: 20980.41 ms
+Optimal Time: 364.26 ms
+Algorithm Time / Optimal Time Ratio: 57.60
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_529.txt
+Algorithm Time: 21114.12 ms
+Optimal Time: 158.69 ms
+Algorithm Time / Optimal Time Ratio: 133.05
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_298.txt
+Algorithm Time: 20594.51 ms
+Optimal Time: 201.79 ms
+Algorithm Time / Optimal Time Ratio: 102.06
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_299.txt
+Algorithm Time: 21213.30 ms
+Optimal Time: 156.32 ms
+Algorithm Time / Optimal Time Ratio: 135.71
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_528.txt
+Algorithm Time: 21231.23 ms
+Optimal Time: 174.46 ms
+Algorithm Time / Optimal Time Ratio: 121.69
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_500.txt
+Algorithm Time: 20796.53 ms
+Optimal Time: 160.70 ms
+Algorithm Time / Optimal Time Ratio: 129.41
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_266.txt
+Algorithm Time: 20828.61 ms
+Optimal Time: 156.97 ms
+Algorithm Time / Optimal Time Ratio: 132.69
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_272.txt
+Algorithm Time: 21032.73 ms
+Optimal Time: 173.45 ms
+Algorithm Time / Optimal Time Ratio: 121.26
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_514.txt
+Algorithm Time: 20622.49 ms
+Optimal Time: 177.23 ms
+Algorithm Time / Optimal Time Ratio: 116.36
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_52.txt
+Algorithm Time: 21016.93 ms
+Optimal Time: 161.61 ms
+Algorithm Time / Optimal Time Ratio: 130.05
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_925.txt
+Algorithm Time: 21256.89 ms
+Optimal Time: 168.32 ms
+Algorithm Time / Optimal Time Ratio: 126.29
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_931.txt
+Algorithm Time: 21316.74 ms
+Optimal Time: 164.06 ms
+Algorithm Time / Optimal Time Ratio: 129.93
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_46.txt
+Algorithm Time: 21059.05 ms
+Optimal Time: 170.88 ms
+Algorithm Time / Optimal Time Ratio: 123.24
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_919.txt
+Algorithm Time: 20984.82 ms
+Optimal Time: 154.95 ms
+Algorithm Time / Optimal Time Ratio: 135.43
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_91.txt
+Algorithm Time: 21123.29 ms
+Optimal Time: 172.72 ms
+Algorithm Time / Optimal Time Ratio: 122.29
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_85.txt
+Algorithm Time: 20999.00 ms
+Optimal Time: 389.91 ms
+Algorithm Time / Optimal Time Ratio: 53.86
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_702.txt
+Algorithm Time: 21092.77 ms
+Optimal Time: 168.56 ms
+Algorithm Time / Optimal Time Ratio: 125.14
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_716.txt
+Algorithm Time: 20665.13 ms
+Optimal Time: 158.39 ms
+Algorithm Time / Optimal Time Ratio: 130.47
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_851.txt
+Algorithm Time: 20691.00 ms
+Optimal Time: 161.29 ms
+Algorithm Time / Optimal Time Ratio: 128.29
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_689.txt
+Algorithm Time: 20914.03 ms
+Optimal Time: 166.75 ms
+Algorithm Time / Optimal Time Ratio: 125.42
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_4.txt
+Algorithm Time: 21542.88 ms
+Optimal Time: 165.72 ms
+Algorithm Time / Optimal Time Ratio: 130.00
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_845.txt
+Algorithm Time: 20900.47 ms
+Optimal Time: 170.56 ms
+Algorithm Time / Optimal Time Ratio: 122.54
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_879.txt
+Algorithm Time: 21230.22 ms
+Optimal Time: 173.71 ms
+Algorithm Time / Optimal Time Ratio: 122.22
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_892.txt
+Algorithm Time: 20802.65 ms
+Optimal Time: 190.42 ms
+Algorithm Time / Optimal Time Ratio: 109.25
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_886.txt
+Algorithm Time: 21156.04 ms
+Optimal Time: 393.57 ms
+Algorithm Time / Optimal Time Ratio: 53.75
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_138.txt
+Algorithm Time: 21090.53 ms
+Optimal Time: 168.22 ms
+Algorithm Time / Optimal Time Ratio: 125.37
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_110.txt
+Algorithm Time: 20873.08 ms
+Optimal Time: 185.10 ms
+Algorithm Time / Optimal Time Ratio: 112.76
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_676.txt
+Algorithm Time: 21289.30 ms
+Optimal Time: 388.06 ms
+Algorithm Time / Optimal Time Ratio: 54.86
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_662.txt
+Algorithm Time: 21319.66 ms
+Optimal Time: 172.74 ms
+Algorithm Time / Optimal Time Ratio: 123.42
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_104.txt
+Algorithm Time: 21927.28 ms
+Optimal Time: 173.87 ms
+Algorithm Time / Optimal Time Ratio: 126.11
+Algorithm Weight / Optimal Weight Ratio: 1.32
+
+Graph: ergnp_2000_3_448.txt
+Algorithm Time: 20535.51 ms
+Optimal Time: 376.72 ms
+Algorithm Time / Optimal Time Ratio: 54.51
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_474.txt
+Algorithm Time: 21401.08 ms
+Optimal Time: 195.02 ms
+Algorithm Time / Optimal Time Ratio: 109.74
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_312.txt
+Algorithm Time: 21035.31 ms
+Optimal Time: 393.01 ms
+Algorithm Time / Optimal Time Ratio: 53.52
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_306.txt
+Algorithm Time: 21035.83 ms
+Optimal Time: 168.81 ms
+Algorithm Time / Optimal Time Ratio: 124.61
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_460.txt
+Algorithm Time: 21042.96 ms
+Optimal Time: 165.32 ms
+Algorithm Time / Optimal Time Ratio: 127.29
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_479.txt
+Algorithm Time: 21575.85 ms
+Optimal Time: 163.86 ms
+Algorithm Time / Optimal Time Ratio: 131.68
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_445.txt
+Algorithm Time: 21179.30 ms
+Optimal Time: 160.95 ms
+Algorithm Time / Optimal Time Ratio: 131.59
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_323.txt
+Algorithm Time: 20752.38 ms
+Optimal Time: 192.39 ms
+Algorithm Time / Optimal Time Ratio: 107.87
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_337.txt
+Algorithm Time: 21166.70 ms
+Optimal Time: 168.50 ms
+Algorithm Time / Optimal Time Ratio: 125.62
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_451.txt
+Algorithm Time: 20701.91 ms
+Optimal Time: 170.27 ms
+Algorithm Time / Optimal Time Ratio: 121.58
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_486.txt
+Algorithm Time: 20914.80 ms
+Optimal Time: 161.14 ms
+Algorithm Time / Optimal Time Ratio: 129.79
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_492.txt
+Algorithm Time: 21174.75 ms
+Optimal Time: 421.96 ms
+Algorithm Time / Optimal Time Ratio: 50.18
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_109.txt
+Algorithm Time: 20384.34 ms
+Optimal Time: 159.76 ms
+Algorithm Time / Optimal Time Ratio: 127.59
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_121.txt
+Algorithm Time: 20437.39 ms
+Optimal Time: 169.69 ms
+Algorithm Time / Optimal Time Ratio: 120.44
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_647.txt
+Algorithm Time: 20951.87 ms
+Optimal Time: 155.74 ms
+Algorithm Time / Optimal Time Ratio: 134.54
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_653.txt
+Algorithm Time: 21065.05 ms
+Optimal Time: 389.87 ms
+Algorithm Time / Optimal Time Ratio: 54.03
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_135.txt
+Algorithm Time: 21299.54 ms
+Optimal Time: 169.42 ms
+Algorithm Time / Optimal Time Ratio: 125.72
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_860.txt
+Algorithm Time: 20800.28 ms
+Optimal Time: 170.41 ms
+Algorithm Time / Optimal Time Ratio: 122.06
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_874.txt
+Algorithm Time: 21182.19 ms
+Optimal Time: 436.78 ms
+Algorithm Time / Optimal Time Ratio: 48.50
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_684.txt
+Algorithm Time: 20607.78 ms
+Optimal Time: 397.37 ms
+Algorithm Time / Optimal Time Ratio: 51.86
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_9.txt
+Algorithm Time: 20738.73 ms
+Optimal Time: 167.94 ms
+Algorithm Time / Optimal Time Ratio: 123.49
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_690.txt
+Algorithm Time: 20488.08 ms
+Optimal Time: 165.45 ms
+Algorithm Time / Optimal Time Ratio: 123.83
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_848.txt
+Algorithm Time: 20857.33 ms
+Optimal Time: 189.76 ms
+Algorithm Time / Optimal Time Ratio: 109.91
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_733.txt
+Algorithm Time: 20740.20 ms
+Optimal Time: 362.87 ms
+Algorithm Time / Optimal Time Ratio: 57.16
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_727.txt
+Algorithm Time: 20238.97 ms
+Optimal Time: 161.52 ms
+Algorithm Time / Optimal Time Ratio: 125.31
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_88.txt
+Algorithm Time: 21423.06 ms
+Optimal Time: 171.34 ms
+Algorithm Time / Optimal Time Ratio: 125.03
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_63.txt
+Algorithm Time: 20724.12 ms
+Optimal Time: 169.40 ms
+Algorithm Time / Optimal Time Ratio: 122.34
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_914.txt
+Algorithm Time: 21078.55 ms
+Optimal Time: 165.95 ms
+Algorithm Time / Optimal Time Ratio: 127.01
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_900.txt
+Algorithm Time: 21048.85 ms
+Optimal Time: 426.28 ms
+Algorithm Time / Optimal Time Ratio: 49.38
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_77.txt
+Algorithm Time: 20914.91 ms
+Optimal Time: 176.60 ms
+Algorithm Time / Optimal Time Ratio: 118.43
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_928.txt
+Algorithm Time: 20563.68 ms
+Optimal Time: 189.63 ms
+Algorithm Time / Optimal Time Ratio: 108.44
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_519.txt
+Algorithm Time: 21461.29 ms
+Optimal Time: 169.98 ms
+Algorithm Time / Optimal Time Ratio: 126.26
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_531.txt
+Algorithm Time: 21266.67 ms
+Optimal Time: 175.49 ms
+Algorithm Time / Optimal Time Ratio: 121.18
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_257.txt
+Algorithm Time: 21330.81 ms
+Optimal Time: 171.54 ms
+Algorithm Time / Optimal Time Ratio: 124.35
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_243.txt
+Algorithm Time: 20615.26 ms
+Optimal Time: 163.22 ms
+Algorithm Time / Optimal Time Ratio: 126.31
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_525.txt
+Algorithm Time: 21447.15 ms
+Optimal Time: 177.40 ms
+Algorithm Time / Optimal Time Ratio: 120.90
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_294.txt
+Algorithm Time: 20698.99 ms
+Optimal Time: 418.30 ms
+Algorithm Time / Optimal Time Ratio: 49.48
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_280.txt
+Algorithm Time: 21200.13 ms
+Optimal Time: 199.04 ms
+Algorithm Time / Optimal Time Ratio: 106.51
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_281.txt
+Algorithm Time: 20853.25 ms
+Optimal Time: 166.98 ms
+Algorithm Time / Optimal Time Ratio: 124.89
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_295.txt
+Algorithm Time: 21214.15 ms
+Optimal Time: 156.91 ms
+Algorithm Time / Optimal Time Ratio: 135.20
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_242.txt
+Algorithm Time: 21567.13 ms
+Optimal Time: 370.90 ms
+Algorithm Time / Optimal Time Ratio: 58.15
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_524.txt
+Algorithm Time: 21185.38 ms
+Optimal Time: 164.99 ms
+Algorithm Time / Optimal Time Ratio: 128.40
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_530.txt
+Algorithm Time: 20645.77 ms
+Optimal Time: 164.55 ms
+Algorithm Time / Optimal Time Ratio: 125.47
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_256.txt
+Algorithm Time: 20835.05 ms
+Optimal Time: 166.40 ms
+Algorithm Time / Optimal Time Ratio: 125.21
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_518.txt
+Algorithm Time: 21291.95 ms
+Optimal Time: 170.17 ms
+Algorithm Time / Optimal Time Ratio: 125.12
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_929.txt
+Algorithm Time: 21426.42 ms
+Optimal Time: 204.51 ms
+Algorithm Time / Optimal Time Ratio: 104.77
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_901.txt
+Algorithm Time: 20692.99 ms
+Optimal Time: 196.02 ms
+Algorithm Time / Optimal Time Ratio: 105.56
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_76.txt
+Algorithm Time: 21524.14 ms
+Optimal Time: 174.47 ms
+Algorithm Time / Optimal Time Ratio: 123.37
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_62.txt
+Algorithm Time: 20921.69 ms
+Optimal Time: 295.34 ms
+Algorithm Time / Optimal Time Ratio: 70.84
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_915.txt
+Algorithm Time: 21156.03 ms
+Optimal Time: 203.59 ms
+Algorithm Time / Optimal Time Ratio: 103.91
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_726.txt
+Algorithm Time: 21113.43 ms
+Optimal Time: 397.44 ms
+Algorithm Time / Optimal Time Ratio: 53.12
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_89.txt
+Algorithm Time: 20882.19 ms
+Optimal Time: 160.95 ms
+Algorithm Time / Optimal Time Ratio: 129.75
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_732.txt
+Algorithm Time: 20885.67 ms
+Optimal Time: 199.35 ms
+Algorithm Time / Optimal Time Ratio: 104.77
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_849.txt
+Algorithm Time: 20549.64 ms
+Optimal Time: 166.05 ms
+Algorithm Time / Optimal Time Ratio: 123.76
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_691.txt
+Algorithm Time: 20531.01 ms
+Optimal Time: 162.90 ms
+Algorithm Time / Optimal Time Ratio: 126.03
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_8.txt
+Algorithm Time: 21100.81 ms
+Optimal Time: 175.92 ms
+Algorithm Time / Optimal Time Ratio: 119.94
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_685.txt
+Algorithm Time: 20775.32 ms
+Optimal Time: 165.76 ms
+Algorithm Time / Optimal Time Ratio: 125.33
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_875.txt
+Algorithm Time: 21137.70 ms
+Optimal Time: 155.51 ms
+Algorithm Time / Optimal Time Ratio: 135.92
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_861.txt
+Algorithm Time: 20926.61 ms
+Optimal Time: 164.76 ms
+Algorithm Time / Optimal Time Ratio: 127.01
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_652.txt
+Algorithm Time: 20575.26 ms
+Optimal Time: 162.21 ms
+Algorithm Time / Optimal Time Ratio: 126.84
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_134.txt
+Algorithm Time: 20994.88 ms
+Optimal Time: 173.11 ms
+Algorithm Time / Optimal Time Ratio: 121.28
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_120.txt
+Algorithm Time: 21045.62 ms
+Optimal Time: 159.20 ms
+Algorithm Time / Optimal Time Ratio: 132.19
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_646.txt
+Algorithm Time: 20472.08 ms
+Optimal Time: 163.83 ms
+Algorithm Time / Optimal Time Ratio: 124.96
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_108.txt
+Algorithm Time: 20906.10 ms
+Optimal Time: 163.15 ms
+Algorithm Time / Optimal Time Ratio: 128.14
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_493.txt
+Algorithm Time: 21159.58 ms
+Optimal Time: 175.65 ms
+Algorithm Time / Optimal Time Ratio: 120.46
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_487.txt
+Algorithm Time: 21276.06 ms
+Optimal Time: 211.34 ms
+Algorithm Time / Optimal Time Ratio: 100.67
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_336.txt
+Algorithm Time: 20672.88 ms
+Optimal Time: 169.59 ms
+Algorithm Time / Optimal Time Ratio: 121.90
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_450.txt
+Algorithm Time: 21019.18 ms
+Optimal Time: 189.76 ms
+Algorithm Time / Optimal Time Ratio: 110.76
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_444.txt
+Algorithm Time: 20783.66 ms
+Optimal Time: 154.94 ms
+Algorithm Time / Optimal Time Ratio: 134.14
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_322.txt
+Algorithm Time: 21034.74 ms
+Optimal Time: 363.29 ms
+Algorithm Time / Optimal Time Ratio: 57.90
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_478.txt
+Algorithm Time: 21460.72 ms
+Optimal Time: 208.70 ms
+Algorithm Time / Optimal Time Ratio: 102.83
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_308.txt
+Algorithm Time: 20614.47 ms
+Optimal Time: 201.18 ms
+Algorithm Time / Optimal Time Ratio: 102.47
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_452.txt
+Algorithm Time: 20760.68 ms
+Optimal Time: 216.03 ms
+Algorithm Time / Optimal Time Ratio: 96.10
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_334.txt
+Algorithm Time: 20775.47 ms
+Optimal Time: 195.82 ms
+Algorithm Time / Optimal Time Ratio: 106.10
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_320.txt
+Algorithm Time: 21390.76 ms
+Optimal Time: 257.05 ms
+Algorithm Time / Optimal Time Ratio: 83.22
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_446.txt
+Algorithm Time: 20712.46 ms
+Optimal Time: 211.92 ms
+Algorithm Time / Optimal Time Ratio: 97.74
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_491.txt
+Algorithm Time: 21350.06 ms
+Optimal Time: 420.51 ms
+Algorithm Time / Optimal Time Ratio: 50.77
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_485.txt
+Algorithm Time: 21066.60 ms
+Optimal Time: 199.63 ms
+Algorithm Time / Optimal Time Ratio: 105.53
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_678.txt
+Algorithm Time: 20569.51 ms
+Optimal Time: 460.45 ms
+Algorithm Time / Optimal Time Ratio: 44.67
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_136.txt
+Algorithm Time: 20904.33 ms
+Optimal Time: 173.15 ms
+Algorithm Time / Optimal Time Ratio: 120.73
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_888.txt
+Algorithm Time: 21229.79 ms
+Optimal Time: 169.22 ms
+Algorithm Time / Optimal Time Ratio: 125.46
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_650.txt
+Algorithm Time: 20945.42 ms
+Optimal Time: 165.68 ms
+Algorithm Time / Optimal Time Ratio: 126.42
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_644.txt
+Algorithm Time: 21138.80 ms
+Optimal Time: 199.67 ms
+Algorithm Time / Optimal Time Ratio: 105.87
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_122.txt
+Algorithm Time: 20973.80 ms
+Optimal Time: 165.14 ms
+Algorithm Time / Optimal Time Ratio: 127.01
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_877.txt
+Algorithm Time: 20567.28 ms
+Optimal Time: 282.10 ms
+Algorithm Time / Optimal Time Ratio: 72.91
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_863.txt
+Algorithm Time: 21342.94 ms
+Optimal Time: 162.50 ms
+Algorithm Time / Optimal Time Ratio: 131.34
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_693.txt
+Algorithm Time: 20748.52 ms
+Optimal Time: 363.21 ms
+Algorithm Time / Optimal Time Ratio: 57.13
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_687.txt
+Algorithm Time: 21005.23 ms
+Optimal Time: 422.73 ms
+Algorithm Time / Optimal Time Ratio: 49.69
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_718.txt
+Algorithm Time: 21022.27 ms
+Optimal Time: 157.85 ms
+Algorithm Time / Optimal Time Ratio: 133.18
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_724.txt
+Algorithm Time: 21441.49 ms
+Optimal Time: 407.50 ms
+Algorithm Time / Optimal Time Ratio: 52.62
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_730.txt
+Algorithm Time: 21224.91 ms
+Optimal Time: 162.31 ms
+Algorithm Time / Optimal Time Ratio: 130.77
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_74.txt
+Algorithm Time: 20902.55 ms
+Optimal Time: 411.96 ms
+Algorithm Time / Optimal Time Ratio: 50.74
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_903.txt
+Algorithm Time: 21009.73 ms
+Optimal Time: 180.32 ms
+Algorithm Time / Optimal Time Ratio: 116.51
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_917.txt
+Algorithm Time: 21140.42 ms
+Optimal Time: 379.05 ms
+Algorithm Time / Optimal Time Ratio: 55.77
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_60.txt
+Algorithm Time: 21267.89 ms
+Optimal Time: 167.54 ms
+Algorithm Time / Optimal Time Ratio: 126.94
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_48.txt
+Algorithm Time: 21112.95 ms
+Optimal Time: 164.94 ms
+Algorithm Time / Optimal Time Ratio: 128.00
+Algorithm Weight / Optimal Weight Ratio: 1.32
+
+Graph: ergnp_2000_3_268.txt
+Algorithm Time: 21139.32 ms
+Optimal Time: 196.46 ms
+Algorithm Time / Optimal Time Ratio: 107.60
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_526.txt
+Algorithm Time: 20283.65 ms
+Optimal Time: 456.49 ms
+Algorithm Time / Optimal Time Ratio: 44.43
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_240.txt
+Algorithm Time: 20787.89 ms
+Optimal Time: 167.48 ms
+Algorithm Time / Optimal Time Ratio: 124.12
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_254.txt
+Algorithm Time: 21041.86 ms
+Optimal Time: 374.65 ms
+Algorithm Time / Optimal Time Ratio: 56.16
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_532.txt
+Algorithm Time: 21428.52 ms
+Optimal Time: 356.98 ms
+Algorithm Time / Optimal Time Ratio: 60.03
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_283.txt
+Algorithm Time: 21110.30 ms
+Optimal Time: 160.78 ms
+Algorithm Time / Optimal Time Ratio: 131.30
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_297.txt
+Algorithm Time: 20596.28 ms
+Optimal Time: 166.53 ms
+Algorithm Time / Optimal Time Ratio: 123.68
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_296.txt
+Algorithm Time: 21197.63 ms
+Optimal Time: 171.78 ms
+Algorithm Time / Optimal Time Ratio: 123.40
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_282.txt
+Algorithm Time: 21024.17 ms
+Optimal Time: 186.57 ms
+Algorithm Time / Optimal Time Ratio: 112.69
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_255.txt
+Algorithm Time: 20952.35 ms
+Optimal Time: 177.04 ms
+Algorithm Time / Optimal Time Ratio: 118.34
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_533.txt
+Algorithm Time: 20869.17 ms
+Optimal Time: 168.24 ms
+Algorithm Time / Optimal Time Ratio: 124.05
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_527.txt
+Algorithm Time: 20618.71 ms
+Optimal Time: 169.10 ms
+Algorithm Time / Optimal Time Ratio: 121.93
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_241.txt
+Algorithm Time: 21546.13 ms
+Optimal Time: 179.65 ms
+Algorithm Time / Optimal Time Ratio: 119.94
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_269.txt
+Algorithm Time: 20827.33 ms
+Optimal Time: 159.90 ms
+Algorithm Time / Optimal Time Ratio: 130.25
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_49.txt
+Algorithm Time: 20933.25 ms
+Optimal Time: 181.02 ms
+Algorithm Time / Optimal Time Ratio: 115.64
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_916.txt
+Algorithm Time: 20793.61 ms
+Optimal Time: 197.24 ms
+Algorithm Time / Optimal Time Ratio: 105.42
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_61.txt
+Algorithm Time: 20910.56 ms
+Optimal Time: 395.42 ms
+Algorithm Time / Optimal Time Ratio: 52.88
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_75.txt
+Algorithm Time: 21342.12 ms
+Optimal Time: 169.19 ms
+Algorithm Time / Optimal Time Ratio: 126.14
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_902.txt
+Algorithm Time: 21249.79 ms
+Optimal Time: 381.91 ms
+Algorithm Time / Optimal Time Ratio: 55.64
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_731.txt
+Algorithm Time: 20492.44 ms
+Optimal Time: 168.92 ms
+Algorithm Time / Optimal Time Ratio: 121.31
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_725.txt
+Algorithm Time: 21098.09 ms
+Optimal Time: 178.45 ms
+Algorithm Time / Optimal Time Ratio: 118.23
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_719.txt
+Algorithm Time: 20319.83 ms
+Optimal Time: 174.65 ms
+Algorithm Time / Optimal Time Ratio: 116.35
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_686.txt
+Algorithm Time: 20731.75 ms
+Optimal Time: 169.72 ms
+Algorithm Time / Optimal Time Ratio: 122.16
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_692.txt
+Algorithm Time: 20297.17 ms
+Optimal Time: 187.79 ms
+Algorithm Time / Optimal Time Ratio: 108.09
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_862.txt
+Algorithm Time: 20993.20 ms
+Optimal Time: 359.70 ms
+Algorithm Time / Optimal Time Ratio: 58.36
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_876.txt
+Algorithm Time: 20609.95 ms
+Optimal Time: 158.56 ms
+Algorithm Time / Optimal Time Ratio: 129.98
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_645.txt
+Algorithm Time: 21100.33 ms
+Optimal Time: 169.87 ms
+Algorithm Time / Optimal Time Ratio: 124.21
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_123.txt
+Algorithm Time: 21185.79 ms
+Optimal Time: 179.80 ms
+Algorithm Time / Optimal Time Ratio: 117.83
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_137.txt
+Algorithm Time: 20391.81 ms
+Optimal Time: 170.45 ms
+Algorithm Time / Optimal Time Ratio: 119.63
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_651.txt
+Algorithm Time: 20866.30 ms
+Optimal Time: 161.56 ms
+Algorithm Time / Optimal Time Ratio: 129.16
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_889.txt
+Algorithm Time: 20801.21 ms
+Optimal Time: 201.34 ms
+Algorithm Time / Optimal Time Ratio: 103.32
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_679.txt
+Algorithm Time: 20819.65 ms
+Optimal Time: 168.21 ms
+Algorithm Time / Optimal Time Ratio: 123.77
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_484.txt
+Algorithm Time: 21150.40 ms
+Optimal Time: 172.50 ms
+Algorithm Time / Optimal Time Ratio: 122.61
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_490.txt
+Algorithm Time: 21028.91 ms
+Optimal Time: 353.20 ms
+Algorithm Time / Optimal Time Ratio: 59.54
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_321.txt
+Algorithm Time: 21049.90 ms
+Optimal Time: 206.80 ms
+Algorithm Time / Optimal Time Ratio: 101.79
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_447.txt
+Algorithm Time: 21109.34 ms
+Optimal Time: 168.76 ms
+Algorithm Time / Optimal Time Ratio: 125.08
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_453.txt
+Algorithm Time: 20971.67 ms
+Optimal Time: 160.06 ms
+Algorithm Time / Optimal Time Ratio: 131.02
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_335.txt
+Algorithm Time: 20862.75 ms
+Optimal Time: 169.94 ms
+Algorithm Time / Optimal Time Ratio: 122.76
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_309.txt
+Algorithm Time: 20818.50 ms
+Optimal Time: 164.36 ms
+Algorithm Time / Optimal Time Ratio: 126.66
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_331.txt
+Algorithm Time: 21492.57 ms
+Optimal Time: 170.67 ms
+Algorithm Time / Optimal Time Ratio: 125.93
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_457.txt
+Algorithm Time: 20744.22 ms
+Optimal Time: 157.64 ms
+Algorithm Time / Optimal Time Ratio: 131.59
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_443.txt
+Algorithm Time: 21297.50 ms
+Optimal Time: 331.30 ms
+Algorithm Time / Optimal Time Ratio: 64.28
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_325.txt
+Algorithm Time: 21141.39 ms
+Optimal Time: 166.52 ms
+Algorithm Time / Optimal Time Ratio: 126.96
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_319.txt
+Algorithm Time: 21133.61 ms
+Optimal Time: 173.85 ms
+Algorithm Time / Optimal Time Ratio: 121.56
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_494.txt
+Algorithm Time: 21231.60 ms
+Optimal Time: 184.35 ms
+Algorithm Time / Optimal Time Ratio: 115.17
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_480.txt
+Algorithm Time: 20828.59 ms
+Optimal Time: 182.22 ms
+Algorithm Time / Optimal Time Ratio: 114.31
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_655.txt
+Algorithm Time: 20510.85 ms
+Optimal Time: 162.41 ms
+Algorithm Time / Optimal Time Ratio: 126.29
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_133.txt
+Algorithm Time: 20924.57 ms
+Optimal Time: 166.51 ms
+Algorithm Time / Optimal Time Ratio: 125.67
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_127.txt
+Algorithm Time: 20930.80 ms
+Optimal Time: 398.06 ms
+Algorithm Time / Optimal Time Ratio: 52.58
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_899.txt
+Algorithm Time: 20988.40 ms
+Optimal Time: 193.49 ms
+Algorithm Time / Optimal Time Ratio: 108.47
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_641.txt
+Algorithm Time: 21505.49 ms
+Optimal Time: 175.17 ms
+Algorithm Time / Optimal Time Ratio: 122.77
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_669.txt
+Algorithm Time: 21264.42 ms
+Optimal Time: 381.94 ms
+Algorithm Time / Optimal Time Ratio: 55.67
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_696.txt
+Algorithm Time: 21386.57 ms
+Optimal Time: 203.10 ms
+Algorithm Time / Optimal Time Ratio: 105.30
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_682.txt
+Algorithm Time: 20855.65 ms
+Optimal Time: 165.67 ms
+Algorithm Time / Optimal Time Ratio: 125.89
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_872.txt
+Algorithm Time: 20949.31 ms
+Optimal Time: 364.19 ms
+Algorithm Time / Optimal Time Ratio: 57.52
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_866.txt
+Algorithm Time: 21115.05 ms
+Optimal Time: 336.23 ms
+Algorithm Time / Optimal Time Ratio: 62.80
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_721.txt
+Algorithm Time: 21004.85 ms
+Optimal Time: 441.44 ms
+Algorithm Time / Optimal Time Ratio: 47.58
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_735.txt
+Algorithm Time: 20888.71 ms
+Optimal Time: 173.57 ms
+Algorithm Time / Optimal Time Ratio: 120.35
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_709.txt
+Algorithm Time: 21395.97 ms
+Optimal Time: 399.40 ms
+Algorithm Time / Optimal Time Ratio: 53.57
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_59.txt
+Algorithm Time: 21195.91 ms
+Optimal Time: 165.42 ms
+Algorithm Time / Optimal Time Ratio: 128.14
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_906.txt
+Algorithm Time: 20614.88 ms
+Optimal Time: 196.30 ms
+Algorithm Time / Optimal Time Ratio: 105.02
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_71.txt
+Algorithm Time: 20852.83 ms
+Optimal Time: 163.86 ms
+Algorithm Time / Optimal Time Ratio: 127.26
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_65.txt
+Algorithm Time: 21150.81 ms
+Optimal Time: 164.35 ms
+Algorithm Time / Optimal Time Ratio: 128.69
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_912.txt
+Algorithm Time: 20376.33 ms
+Optimal Time: 183.22 ms
+Algorithm Time / Optimal Time Ratio: 111.21
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_245.txt
+Algorithm Time: 21501.18 ms
+Optimal Time: 421.97 ms
+Algorithm Time / Optimal Time Ratio: 50.95
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_523.txt
+Algorithm Time: 20400.16 ms
+Optimal Time: 172.30 ms
+Algorithm Time / Optimal Time Ratio: 118.40
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_537.txt
+Algorithm Time: 20880.86 ms
+Optimal Time: 173.64 ms
+Algorithm Time / Optimal Time Ratio: 120.25
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_251.txt
+Algorithm Time: 20520.15 ms
+Optimal Time: 198.20 ms
+Algorithm Time / Optimal Time Ratio: 103.53
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_279.txt
+Algorithm Time: 20633.02 ms
+Optimal Time: 161.97 ms
+Algorithm Time / Optimal Time Ratio: 127.39
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_286.txt
+Algorithm Time: 21828.38 ms
+Optimal Time: 437.17 ms
+Algorithm Time / Optimal Time Ratio: 49.93
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_292.txt
+Algorithm Time: 21238.12 ms
+Optimal Time: 346.35 ms
+Algorithm Time / Optimal Time Ratio: 61.32
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_293.txt
+Algorithm Time: 21493.85 ms
+Optimal Time: 166.81 ms
+Algorithm Time / Optimal Time Ratio: 128.85
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_287.txt
+Algorithm Time: 20774.29 ms
+Optimal Time: 360.91 ms
+Algorithm Time / Optimal Time Ratio: 57.56
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_278.txt
+Algorithm Time: 21147.76 ms
+Optimal Time: 179.57 ms
+Algorithm Time / Optimal Time Ratio: 117.77
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_536.txt
+Algorithm Time: 21113.20 ms
+Optimal Time: 363.80 ms
+Algorithm Time / Optimal Time Ratio: 58.04
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_250.txt
+Algorithm Time: 21110.81 ms
+Optimal Time: 173.02 ms
+Algorithm Time / Optimal Time Ratio: 122.01
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_244.txt
+Algorithm Time: 20781.23 ms
+Optimal Time: 387.53 ms
+Algorithm Time / Optimal Time Ratio: 53.62
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_522.txt
+Algorithm Time: 21285.19 ms
+Optimal Time: 372.35 ms
+Algorithm Time / Optimal Time Ratio: 57.16
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_64.txt
+Algorithm Time: 20551.43 ms
+Optimal Time: 158.86 ms
+Algorithm Time / Optimal Time Ratio: 129.37
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_913.txt
+Algorithm Time: 21111.13 ms
+Optimal Time: 193.37 ms
+Algorithm Time / Optimal Time Ratio: 109.18
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_907.txt
+Algorithm Time: 20474.40 ms
+Optimal Time: 399.85 ms
+Algorithm Time / Optimal Time Ratio: 51.20
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_70.txt
+Algorithm Time: 20862.47 ms
+Optimal Time: 170.26 ms
+Algorithm Time / Optimal Time Ratio: 122.53
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_58.txt
+Algorithm Time: 21044.92 ms
+Optimal Time: 201.74 ms
+Algorithm Time / Optimal Time Ratio: 104.32
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_708.txt
+Algorithm Time: 20900.34 ms
+Optimal Time: 375.17 ms
+Algorithm Time / Optimal Time Ratio: 55.71
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_734.txt
+Algorithm Time: 20985.86 ms
+Optimal Time: 125.20 ms
+Algorithm Time / Optimal Time Ratio: 167.62
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_720.txt
+Algorithm Time: 20950.30 ms
+Optimal Time: 168.92 ms
+Algorithm Time / Optimal Time Ratio: 124.02
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_867.txt
+Algorithm Time: 21297.44 ms
+Optimal Time: 164.80 ms
+Algorithm Time / Optimal Time Ratio: 129.23
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_873.txt
+Algorithm Time: 20717.97 ms
+Optimal Time: 368.27 ms
+Algorithm Time / Optimal Time Ratio: 56.26
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_683.txt
+Algorithm Time: 20653.18 ms
+Optimal Time: 385.81 ms
+Algorithm Time / Optimal Time Ratio: 53.53
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_697.txt
+Algorithm Time: 21327.93 ms
+Optimal Time: 167.15 ms
+Algorithm Time / Optimal Time Ratio: 127.60
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_668.txt
+Algorithm Time: 20848.24 ms
+Optimal Time: 388.70 ms
+Algorithm Time / Optimal Time Ratio: 53.64
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_126.txt
+Algorithm Time: 21120.42 ms
+Optimal Time: 174.91 ms
+Algorithm Time / Optimal Time Ratio: 120.75
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_640.txt
+Algorithm Time: 20632.71 ms
+Optimal Time: 173.54 ms
+Algorithm Time / Optimal Time Ratio: 118.89
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_898.txt
+Algorithm Time: 20946.83 ms
+Optimal Time: 157.68 ms
+Algorithm Time / Optimal Time Ratio: 132.85
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_654.txt
+Algorithm Time: 21435.30 ms
+Optimal Time: 172.62 ms
+Algorithm Time / Optimal Time Ratio: 124.17
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_132.txt
+Algorithm Time: 21280.30 ms
+Optimal Time: 167.85 ms
+Algorithm Time / Optimal Time Ratio: 126.79
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_481.txt
+Algorithm Time: 20945.91 ms
+Optimal Time: 169.46 ms
+Algorithm Time / Optimal Time Ratio: 123.60
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_495.txt
+Algorithm Time: 21362.29 ms
+Optimal Time: 192.78 ms
+Algorithm Time / Optimal Time Ratio: 110.81
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_318.txt
+Algorithm Time: 21000.89 ms
+Optimal Time: 166.65 ms
+Algorithm Time / Optimal Time Ratio: 126.02
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_442.txt
+Algorithm Time: 21026.13 ms
+Optimal Time: 170.64 ms
+Algorithm Time / Optimal Time Ratio: 123.22
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_324.txt
+Algorithm Time: 20990.94 ms
+Optimal Time: 398.34 ms
+Algorithm Time / Optimal Time Ratio: 52.70
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_330.txt
+Algorithm Time: 21085.46 ms
+Optimal Time: 164.40 ms
+Algorithm Time / Optimal Time Ratio: 128.26
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_456.txt
+Algorithm Time: 21086.48 ms
+Optimal Time: 157.50 ms
+Algorithm Time / Optimal Time Ratio: 133.89
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_326.txt
+Algorithm Time: 21120.60 ms
+Optimal Time: 172.87 ms
+Algorithm Time / Optimal Time Ratio: 122.18
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_440.txt
+Algorithm Time: 21641.69 ms
+Optimal Time: 205.75 ms
+Algorithm Time / Optimal Time Ratio: 105.19
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_454.txt
+Algorithm Time: 21351.59 ms
+Optimal Time: 171.83 ms
+Algorithm Time / Optimal Time Ratio: 124.26
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_332.txt
+Algorithm Time: 21170.81 ms
+Optimal Time: 386.59 ms
+Algorithm Time / Optimal Time Ratio: 54.76
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_468.txt
+Algorithm Time: 20651.36 ms
+Optimal Time: 462.04 ms
+Algorithm Time / Optimal Time Ratio: 44.70
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_483.txt
+Algorithm Time: 21081.23 ms
+Optimal Time: 165.76 ms
+Algorithm Time / Optimal Time Ratio: 127.18
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_497.txt
+Algorithm Time: 21295.49 ms
+Optimal Time: 167.11 ms
+Algorithm Time / Optimal Time Ratio: 127.43
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_642.txt
+Algorithm Time: 20675.86 ms
+Optimal Time: 348.54 ms
+Algorithm Time / Optimal Time Ratio: 59.32
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_124.txt
+Algorithm Time: 20992.65 ms
+Optimal Time: 201.57 ms
+Algorithm Time / Optimal Time Ratio: 104.15
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_130.txt
+Algorithm Time: 20961.65 ms
+Optimal Time: 201.29 ms
+Algorithm Time / Optimal Time Ratio: 104.14
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_656.txt
+Algorithm Time: 21070.54 ms
+Optimal Time: 174.52 ms
+Algorithm Time / Optimal Time Ratio: 120.73
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_118.txt
+Algorithm Time: 20590.26 ms
+Optimal Time: 397.46 ms
+Algorithm Time / Optimal Time Ratio: 51.80
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_681.txt
+Algorithm Time: 21551.12 ms
+Optimal Time: 180.30 ms
+Algorithm Time / Optimal Time Ratio: 119.53
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_859.txt
+Algorithm Time: 20754.14 ms
+Optimal Time: 170.77 ms
+Algorithm Time / Optimal Time Ratio: 121.53
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_695.txt
+Algorithm Time: 21305.21 ms
+Optimal Time: 172.60 ms
+Algorithm Time / Optimal Time Ratio: 123.44
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_865.txt
+Algorithm Time: 21260.04 ms
+Optimal Time: 196.84 ms
+Algorithm Time / Optimal Time Ratio: 108.01
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_871.txt
+Algorithm Time: 21066.56 ms
+Optimal Time: 383.80 ms
+Algorithm Time / Optimal Time Ratio: 54.89
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_736.txt
+Algorithm Time: 20486.68 ms
+Optimal Time: 174.24 ms
+Algorithm Time / Optimal Time Ratio: 117.58
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_99.txt
+Algorithm Time: 20907.56 ms
+Optimal Time: 187.20 ms
+Algorithm Time / Optimal Time Ratio: 111.68
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_722.txt
+Algorithm Time: 21129.34 ms
+Optimal Time: 170.22 ms
+Algorithm Time / Optimal Time Ratio: 124.13
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_939.txt
+Algorithm Time: 20466.27 ms
+Optimal Time: 162.32 ms
+Algorithm Time / Optimal Time Ratio: 126.09
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_911.txt
+Algorithm Time: 20679.47 ms
+Optimal Time: 162.43 ms
+Algorithm Time / Optimal Time Ratio: 127.32
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_66.txt
+Algorithm Time: 21252.58 ms
+Optimal Time: 187.48 ms
+Algorithm Time / Optimal Time Ratio: 113.36
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_72.txt
+Algorithm Time: 20941.80 ms
+Optimal Time: 170.43 ms
+Algorithm Time / Optimal Time Ratio: 122.88
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_905.txt
+Algorithm Time: 20823.79 ms
+Optimal Time: 161.52 ms
+Algorithm Time / Optimal Time Ratio: 128.92
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_252.txt
+Algorithm Time: 21110.05 ms
+Optimal Time: 190.74 ms
+Algorithm Time / Optimal Time Ratio: 110.67
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_534.txt
+Algorithm Time: 20816.64 ms
+Optimal Time: 378.75 ms
+Algorithm Time / Optimal Time Ratio: 54.96
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_520.txt
+Algorithm Time: 20750.58 ms
+Optimal Time: 169.58 ms
+Algorithm Time / Optimal Time Ratio: 122.36
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_246.txt
+Algorithm Time: 20955.51 ms
+Optimal Time: 170.72 ms
+Algorithm Time / Optimal Time Ratio: 122.75
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_508.txt
+Algorithm Time: 21340.86 ms
+Optimal Time: 359.13 ms
+Algorithm Time / Optimal Time Ratio: 59.42
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_291.txt
+Algorithm Time: 20646.40 ms
+Optimal Time: 360.72 ms
+Algorithm Time / Optimal Time Ratio: 57.24
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_285.txt
+Algorithm Time: 21324.20 ms
+Optimal Time: 393.95 ms
+Algorithm Time / Optimal Time Ratio: 54.13
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_284.txt
+Algorithm Time: 20867.49 ms
+Optimal Time: 173.76 ms
+Algorithm Time / Optimal Time Ratio: 120.10
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_290.txt
+Algorithm Time: 21118.24 ms
+Optimal Time: 169.88 ms
+Algorithm Time / Optimal Time Ratio: 124.31
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_509.txt
+Algorithm Time: 20946.48 ms
+Optimal Time: 174.55 ms
+Algorithm Time / Optimal Time Ratio: 120.00
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_521.txt
+Algorithm Time: 21594.46 ms
+Optimal Time: 206.86 ms
+Algorithm Time / Optimal Time Ratio: 104.39
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_247.txt
+Algorithm Time: 20706.01 ms
+Optimal Time: 217.49 ms
+Algorithm Time / Optimal Time Ratio: 95.21
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_253.txt
+Algorithm Time: 20798.84 ms
+Optimal Time: 160.97 ms
+Algorithm Time / Optimal Time Ratio: 129.21
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_535.txt
+Algorithm Time: 20652.70 ms
+Optimal Time: 193.71 ms
+Algorithm Time / Optimal Time Ratio: 106.62
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_73.txt
+Algorithm Time: 20973.40 ms
+Optimal Time: 162.74 ms
+Algorithm Time / Optimal Time Ratio: 128.87
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_904.txt
+Algorithm Time: 21057.39 ms
+Optimal Time: 369.02 ms
+Algorithm Time / Optimal Time Ratio: 57.06
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_910.txt
+Algorithm Time: 21425.32 ms
+Optimal Time: 201.37 ms
+Algorithm Time / Optimal Time Ratio: 106.40
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_67.txt
+Algorithm Time: 20560.04 ms
+Optimal Time: 195.22 ms
+Algorithm Time / Optimal Time Ratio: 105.32
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_938.txt
+Algorithm Time: 20965.02 ms
+Optimal Time: 213.83 ms
+Algorithm Time / Optimal Time Ratio: 98.05
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_723.txt
+Algorithm Time: 20978.16 ms
+Optimal Time: 204.58 ms
+Algorithm Time / Optimal Time Ratio: 102.54
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_737.txt
+Algorithm Time: 20821.61 ms
+Optimal Time: 210.14 ms
+Algorithm Time / Optimal Time Ratio: 99.08
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_98.txt
+Algorithm Time: 21111.52 ms
+Optimal Time: 213.44 ms
+Algorithm Time / Optimal Time Ratio: 98.91
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_870.txt
+Algorithm Time: 20926.48 ms
+Optimal Time: 389.80 ms
+Algorithm Time / Optimal Time Ratio: 53.69
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_864.txt
+Algorithm Time: 21500.12 ms
+Optimal Time: 207.93 ms
+Algorithm Time / Optimal Time Ratio: 103.40
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_694.txt
+Algorithm Time: 21474.86 ms
+Optimal Time: 205.17 ms
+Algorithm Time / Optimal Time Ratio: 104.67
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_858.txt
+Algorithm Time: 20873.11 ms
+Optimal Time: 166.45 ms
+Algorithm Time / Optimal Time Ratio: 125.40
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_680.txt
+Algorithm Time: 21193.57 ms
+Optimal Time: 407.71 ms
+Algorithm Time / Optimal Time Ratio: 51.98
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_119.txt
+Algorithm Time: 21290.42 ms
+Optimal Time: 160.54 ms
+Algorithm Time / Optimal Time Ratio: 132.62
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_131.txt
+Algorithm Time: 21200.84 ms
+Optimal Time: 374.44 ms
+Algorithm Time / Optimal Time Ratio: 56.62
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_657.txt
+Algorithm Time: 21266.15 ms
+Optimal Time: 177.82 ms
+Algorithm Time / Optimal Time Ratio: 119.59
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_643.txt
+Algorithm Time: 21536.42 ms
+Optimal Time: 177.71 ms
+Algorithm Time / Optimal Time Ratio: 121.19
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_125.txt
+Algorithm Time: 21285.10 ms
+Optimal Time: 322.11 ms
+Algorithm Time / Optimal Time Ratio: 66.08
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_496.txt
+Algorithm Time: 21301.78 ms
+Optimal Time: 170.58 ms
+Algorithm Time / Optimal Time Ratio: 124.88
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_482.txt
+Algorithm Time: 21271.33 ms
+Optimal Time: 368.72 ms
+Algorithm Time / Optimal Time Ratio: 57.69
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_469.txt
+Algorithm Time: 21222.55 ms
+Optimal Time: 357.88 ms
+Algorithm Time / Optimal Time Ratio: 59.30
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_455.txt
+Algorithm Time: 20894.08 ms
+Optimal Time: 448.09 ms
+Algorithm Time / Optimal Time Ratio: 46.63
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_333.txt
+Algorithm Time: 21112.27 ms
+Optimal Time: 169.51 ms
+Algorithm Time / Optimal Time Ratio: 124.55
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_327.txt
+Algorithm Time: 21170.49 ms
+Optimal Time: 195.40 ms
+Algorithm Time / Optimal Time Ratio: 108.35
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_441.txt
+Algorithm Time: 21078.42 ms
+Optimal Time: 170.59 ms
+Algorithm Time / Optimal Time Ratio: 123.56
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_368.txt
+Algorithm Time: 21201.75 ms
+Optimal Time: 166.28 ms
+Algorithm Time / Optimal Time Ratio: 127.50
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_340.txt
+Algorithm Time: 21054.52 ms
+Optimal Time: 353.16 ms
+Algorithm Time / Optimal Time Ratio: 59.62
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_426.txt
+Algorithm Time: 20466.08 ms
+Optimal Time: 166.82 ms
+Algorithm Time / Optimal Time Ratio: 122.68
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_432.txt
+Algorithm Time: 20933.74 ms
+Optimal Time: 167.66 ms
+Algorithm Time / Optimal Time Ratio: 124.86
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_354.txt
+Algorithm Time: 21033.02 ms
+Optimal Time: 192.08 ms
+Algorithm Time / Optimal Time Ratio: 109.50
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_383.txt
+Algorithm Time: 21102.33 ms
+Optimal Time: 168.35 ms
+Algorithm Time / Optimal Time Ratio: 125.35
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_397.txt
+Algorithm Time: 20702.69 ms
+Optimal Time: 156.52 ms
+Algorithm Time / Optimal Time Ratio: 132.27
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_618.txt
+Algorithm Time: 20710.84 ms
+Optimal Time: 160.16 ms
+Algorithm Time / Optimal Time Ratio: 129.31
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_624.txt
+Algorithm Time: 20984.38 ms
+Optimal Time: 165.25 ms
+Algorithm Time / Optimal Time Ratio: 126.98
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_142.txt
+Algorithm Time: 20648.61 ms
+Optimal Time: 159.60 ms
+Algorithm Time / Optimal Time Ratio: 129.38
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_156.txt
+Algorithm Time: 20936.31 ms
+Optimal Time: 164.22 ms
+Algorithm Time / Optimal Time Ratio: 127.49
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_630.txt
+Algorithm Time: 20792.75 ms
+Optimal Time: 202.51 ms
+Algorithm Time / Optimal Time Ratio: 102.67
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_803.txt
+Algorithm Time: 20968.90 ms
+Optimal Time: 183.83 ms
+Algorithm Time / Optimal Time Ratio: 114.06
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_817.txt
+Algorithm Time: 21303.39 ms
+Optimal Time: 165.79 ms
+Algorithm Time / Optimal Time Ratio: 128.50
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_181.txt
+Algorithm Time: 21172.41 ms
+Optimal Time: 174.04 ms
+Algorithm Time / Optimal Time Ratio: 121.65
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_195.txt
+Algorithm Time: 21126.45 ms
+Optimal Time: 154.30 ms
+Algorithm Time / Optimal Time Ratio: 136.92
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_778.txt
+Algorithm Time: 21157.09 ms
+Optimal Time: 169.80 ms
+Algorithm Time / Optimal Time Ratio: 124.60
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_750.txt
+Algorithm Time: 21111.98 ms
+Optimal Time: 164.22 ms
+Algorithm Time / Optimal Time Ratio: 128.56
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_988.txt
+Algorithm Time: 20983.91 ms
+Optimal Time: 171.07 ms
+Algorithm Time / Optimal Time Ratio: 122.67
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_744.txt
+Algorithm Time: 21262.79 ms
+Optimal Time: 199.22 ms
+Algorithm Time / Optimal Time Ratio: 106.73
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_977.txt
+Algorithm Time: 21266.57 ms
+Optimal Time: 169.50 ms
+Algorithm Time / Optimal Time Ratio: 125.47
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_14.txt
+Algorithm Time: 20953.19 ms
+Optimal Time: 161.13 ms
+Algorithm Time / Optimal Time Ratio: 130.04
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_963.txt
+Algorithm Time: 21627.01 ms
+Optimal Time: 169.19 ms
+Algorithm Time / Optimal Time Ratio: 127.83
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_793.txt
+Algorithm Time: 20547.64 ms
+Optimal Time: 155.24 ms
+Algorithm Time / Optimal Time Ratio: 132.36
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_28.txt
+Algorithm Time: 20889.64 ms
+Optimal Time: 155.58 ms
+Algorithm Time / Optimal Time Ratio: 134.27
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_787.txt
+Algorithm Time: 20918.09 ms
+Optimal Time: 162.00 ms
+Algorithm Time / Optimal Time Ratio: 129.12
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_208.txt
+Algorithm Time: 20872.69 ms
+Optimal Time: 399.45 ms
+Algorithm Time / Optimal Time Ratio: 52.25
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_234.txt
+Algorithm Time: 20861.65 ms
+Optimal Time: 162.74 ms
+Algorithm Time / Optimal Time Ratio: 128.19
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_552.txt
+Algorithm Time: 21042.66 ms
+Optimal Time: 168.88 ms
+Algorithm Time / Optimal Time Ratio: 124.60
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_546.txt
+Algorithm Time: 20876.27 ms
+Optimal Time: 399.22 ms
+Algorithm Time / Optimal Time Ratio: 52.29
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_220.txt
+Algorithm Time: 20919.02 ms
+Optimal Time: 152.72 ms
+Algorithm Time / Optimal Time Ratio: 136.97
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_591.txt
+Algorithm Time: 21105.05 ms
+Optimal Time: 174.80 ms
+Algorithm Time / Optimal Time Ratio: 120.74
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_585.txt
+Algorithm Time: 20956.46 ms
+Optimal Time: 172.21 ms
+Algorithm Time / Optimal Time Ratio: 121.69
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_584.txt
+Algorithm Time: 21389.96 ms
+Optimal Time: 173.87 ms
+Algorithm Time / Optimal Time Ratio: 123.02
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_590.txt
+Algorithm Time: 21531.95 ms
+Optimal Time: 171.96 ms
+Algorithm Time / Optimal Time Ratio: 125.22
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_547.txt
+Algorithm Time: 20442.33 ms
+Optimal Time: 160.98 ms
+Algorithm Time / Optimal Time Ratio: 126.99
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_221.txt
+Algorithm Time: 20914.91 ms
+Optimal Time: 158.65 ms
+Algorithm Time / Optimal Time Ratio: 131.83
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_235.txt
+Algorithm Time: 21382.88 ms
+Optimal Time: 170.09 ms
+Algorithm Time / Optimal Time Ratio: 125.72
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_553.txt
+Algorithm Time: 21095.62 ms
+Optimal Time: 175.44 ms
+Algorithm Time / Optimal Time Ratio: 120.25
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_209.txt
+Algorithm Time: 20991.08 ms
+Optimal Time: 167.64 ms
+Algorithm Time / Optimal Time Ratio: 125.21
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_29.txt
+Algorithm Time: 21390.72 ms
+Optimal Time: 164.80 ms
+Algorithm Time / Optimal Time Ratio: 129.80
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_786.txt
+Algorithm Time: 20916.69 ms
+Optimal Time: 207.70 ms
+Algorithm Time / Optimal Time Ratio: 100.71
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_792.txt
+Algorithm Time: 20829.43 ms
+Optimal Time: 174.71 ms
+Algorithm Time / Optimal Time Ratio: 119.22
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_15.txt
+Algorithm Time: 21200.99 ms
+Optimal Time: 176.38 ms
+Algorithm Time / Optimal Time Ratio: 120.20
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_962.txt
+Algorithm Time: 21021.57 ms
+Optimal Time: 166.91 ms
+Algorithm Time / Optimal Time Ratio: 125.94
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_976.txt
+Algorithm Time: 20925.73 ms
+Optimal Time: 162.80 ms
+Algorithm Time / Optimal Time Ratio: 128.54
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_745.txt
+Algorithm Time: 20881.37 ms
+Optimal Time: 163.26 ms
+Algorithm Time / Optimal Time Ratio: 127.90
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_989.txt
+Algorithm Time: 20481.03 ms
+Optimal Time: 168.15 ms
+Algorithm Time / Optimal Time Ratio: 121.81
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_751.txt
+Algorithm Time: 20161.08 ms
+Optimal Time: 123.02 ms
+Algorithm Time / Optimal Time Ratio: 163.89
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_779.txt
+Algorithm Time: 21194.06 ms
+Optimal Time: 185.64 ms
+Algorithm Time / Optimal Time Ratio: 114.17
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_194.txt
+Algorithm Time: 20999.72 ms
+Optimal Time: 373.92 ms
+Algorithm Time / Optimal Time Ratio: 56.16
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_180.txt
+Algorithm Time: 21040.45 ms
+Optimal Time: 169.13 ms
+Algorithm Time / Optimal Time Ratio: 124.40
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_816.txt
+Algorithm Time: 20544.16 ms
+Optimal Time: 159.69 ms
+Algorithm Time / Optimal Time Ratio: 128.65
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_802.txt
+Algorithm Time: 21000.23 ms
+Optimal Time: 346.40 ms
+Algorithm Time / Optimal Time Ratio: 60.62
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_157.txt
+Algorithm Time: 20962.53 ms
+Optimal Time: 162.43 ms
+Algorithm Time / Optimal Time Ratio: 129.05
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_631.txt
+Algorithm Time: 21244.05 ms
+Optimal Time: 172.80 ms
+Algorithm Time / Optimal Time Ratio: 122.94
+Algorithm Weight / Optimal Weight Ratio: 1.32
+
+Graph: ergnp_2000_3_625.txt
+Algorithm Time: 21162.51 ms
+Optimal Time: 441.22 ms
+Algorithm Time / Optimal Time Ratio: 47.96
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_143.txt
+Algorithm Time: 20651.47 ms
+Optimal Time: 166.19 ms
+Algorithm Time / Optimal Time Ratio: 124.27
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_619.txt
+Algorithm Time: 20925.54 ms
+Optimal Time: 424.65 ms
+Algorithm Time / Optimal Time Ratio: 49.28
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_396.txt
+Algorithm Time: 20399.72 ms
+Optimal Time: 372.69 ms
+Algorithm Time / Optimal Time Ratio: 54.74
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_382.txt
+Algorithm Time: 20902.54 ms
+Optimal Time: 156.83 ms
+Algorithm Time / Optimal Time Ratio: 133.28
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_433.txt
+Algorithm Time: 20785.95 ms
+Optimal Time: 166.95 ms
+Algorithm Time / Optimal Time Ratio: 124.50
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_355.txt
+Algorithm Time: 20591.85 ms
+Optimal Time: 376.58 ms
+Algorithm Time / Optimal Time Ratio: 54.68
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_341.txt
+Algorithm Time: 20839.32 ms
+Optimal Time: 191.39 ms
+Algorithm Time / Optimal Time Ratio: 108.88
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_427.txt
+Algorithm Time: 21020.10 ms
+Optimal Time: 164.59 ms
+Algorithm Time / Optimal Time Ratio: 127.71
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_369.txt
+Algorithm Time: 20335.85 ms
+Optimal Time: 167.88 ms
+Algorithm Time / Optimal Time Ratio: 121.13
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_419.txt
+Algorithm Time: 21077.49 ms
+Optimal Time: 168.33 ms
+Algorithm Time / Optimal Time Ratio: 125.22
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_357.txt
+Algorithm Time: 21078.14 ms
+Optimal Time: 171.95 ms
+Algorithm Time / Optimal Time Ratio: 122.59
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_431.txt
+Algorithm Time: 21272.84 ms
+Optimal Time: 177.48 ms
+Algorithm Time / Optimal Time Ratio: 119.86
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_425.txt
+Algorithm Time: 21242.09 ms
+Optimal Time: 179.42 ms
+Algorithm Time / Optimal Time Ratio: 118.40
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_343.txt
+Algorithm Time: 20628.14 ms
+Optimal Time: 181.73 ms
+Algorithm Time / Optimal Time Ratio: 113.51
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_394.txt
+Algorithm Time: 21695.23 ms
+Optimal Time: 172.73 ms
+Algorithm Time / Optimal Time Ratio: 125.60
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_380.txt
+Algorithm Time: 21289.84 ms
+Optimal Time: 159.59 ms
+Algorithm Time / Optimal Time Ratio: 133.40
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_169.txt
+Algorithm Time: 21029.07 ms
+Optimal Time: 174.12 ms
+Algorithm Time / Optimal Time Ratio: 120.77
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_633.txt
+Algorithm Time: 21233.65 ms
+Optimal Time: 172.29 ms
+Algorithm Time / Optimal Time Ratio: 123.24
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_155.txt
+Algorithm Time: 20480.13 ms
+Optimal Time: 172.91 ms
+Algorithm Time / Optimal Time Ratio: 118.45
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_141.txt
+Algorithm Time: 20937.27 ms
+Optimal Time: 352.43 ms
+Algorithm Time / Optimal Time Ratio: 59.41
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_627.txt
+Algorithm Time: 21023.60 ms
+Optimal Time: 173.06 ms
+Algorithm Time / Optimal Time Ratio: 121.48
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_814.txt
+Algorithm Time: 21523.50 ms
+Optimal Time: 432.48 ms
+Algorithm Time / Optimal Time Ratio: 49.77
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_800.txt
+Algorithm Time: 21096.16 ms
+Optimal Time: 165.66 ms
+Algorithm Time / Optimal Time Ratio: 127.35
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_828.txt
+Algorithm Time: 21512.78 ms
+Optimal Time: 176.29 ms
+Algorithm Time / Optimal Time Ratio: 122.03
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_196.txt
+Algorithm Time: 21303.52 ms
+Optimal Time: 382.25 ms
+Algorithm Time / Optimal Time Ratio: 55.73
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_182.txt
+Algorithm Time: 21076.28 ms
+Optimal Time: 374.34 ms
+Algorithm Time / Optimal Time Ratio: 56.30
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_747.txt
+Algorithm Time: 20885.62 ms
+Optimal Time: 359.74 ms
+Algorithm Time / Optimal Time Ratio: 58.06
+Algorithm Weight / Optimal Weight Ratio: 1.24
+
+Graph: ergnp_2000_3_753.txt
+Algorithm Time: 20946.47 ms
+Optimal Time: 190.77 ms
+Algorithm Time / Optimal Time Ratio: 109.80
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_960.txt
+Algorithm Time: 20484.58 ms
+Optimal Time: 200.76 ms
+Algorithm Time / Optimal Time Ratio: 102.03
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_17.txt
+Algorithm Time: 21132.61 ms
+Optimal Time: 352.50 ms
+Algorithm Time / Optimal Time Ratio: 59.95
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_974.txt
+Algorithm Time: 21039.12 ms
+Optimal Time: 158.63 ms
+Algorithm Time / Optimal Time Ratio: 132.63
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_784.txt
+Algorithm Time: 20766.44 ms
+Optimal Time: 161.99 ms
+Algorithm Time / Optimal Time Ratio: 128.20
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_948.txt
+Algorithm Time: 21090.06 ms
+Optimal Time: 168.85 ms
+Algorithm Time / Optimal Time Ratio: 124.90
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_790.txt
+Algorithm Time: 21076.22 ms
+Optimal Time: 174.15 ms
+Algorithm Time / Optimal Time Ratio: 121.03
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_579.txt
+Algorithm Time: 20948.88 ms
+Optimal Time: 167.16 ms
+Algorithm Time / Optimal Time Ratio: 125.32
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_223.txt
+Algorithm Time: 20741.43 ms
+Optimal Time: 155.41 ms
+Algorithm Time / Optimal Time Ratio: 133.46
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_545.txt
+Algorithm Time: 21021.07 ms
+Optimal Time: 202.14 ms
+Algorithm Time / Optimal Time Ratio: 103.99
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_551.txt
+Algorithm Time: 20925.37 ms
+Optimal Time: 166.72 ms
+Algorithm Time / Optimal Time Ratio: 125.51
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_237.txt
+Algorithm Time: 20962.87 ms
+Optimal Time: 164.93 ms
+Algorithm Time / Optimal Time Ratio: 127.11
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_586.txt
+Algorithm Time: 21216.45 ms
+Optimal Time: 167.56 ms
+Algorithm Time / Optimal Time Ratio: 126.62
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_592.txt
+Algorithm Time: 21190.93 ms
+Optimal Time: 170.16 ms
+Algorithm Time / Optimal Time Ratio: 124.53
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_593.txt
+Algorithm Time: 21170.94 ms
+Optimal Time: 168.12 ms
+Algorithm Time / Optimal Time Ratio: 125.93
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_587.txt
+Algorithm Time: 21203.33 ms
+Optimal Time: 162.43 ms
+Algorithm Time / Optimal Time Ratio: 130.54
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_550.txt
+Algorithm Time: 20717.44 ms
+Optimal Time: 206.95 ms
+Algorithm Time / Optimal Time Ratio: 100.11
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_236.txt
+Algorithm Time: 20702.65 ms
+Optimal Time: 394.49 ms
+Algorithm Time / Optimal Time Ratio: 52.48
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_222.txt
+Algorithm Time: 21031.02 ms
+Optimal Time: 173.19 ms
+Algorithm Time / Optimal Time Ratio: 121.43
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_544.txt
+Algorithm Time: 20753.88 ms
+Optimal Time: 158.39 ms
+Algorithm Time / Optimal Time Ratio: 131.03
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_578.txt
+Algorithm Time: 21274.54 ms
+Optimal Time: 169.27 ms
+Algorithm Time / Optimal Time Ratio: 125.68
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_791.txt
+Algorithm Time: 21034.59 ms
+Optimal Time: 169.71 ms
+Algorithm Time / Optimal Time Ratio: 123.95
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_949.txt
+Algorithm Time: 20962.29 ms
+Optimal Time: 169.31 ms
+Algorithm Time / Optimal Time Ratio: 123.81
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_785.txt
+Algorithm Time: 20635.60 ms
+Optimal Time: 163.45 ms
+Algorithm Time / Optimal Time Ratio: 126.25
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_975.txt
+Algorithm Time: 20597.19 ms
+Optimal Time: 198.04 ms
+Algorithm Time / Optimal Time Ratio: 104.01
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_961.txt
+Algorithm Time: 21086.68 ms
+Optimal Time: 172.10 ms
+Algorithm Time / Optimal Time Ratio: 122.53
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_16.txt
+Algorithm Time: 20490.75 ms
+Optimal Time: 173.73 ms
+Algorithm Time / Optimal Time Ratio: 117.95
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_752.txt
+Algorithm Time: 20716.16 ms
+Optimal Time: 169.29 ms
+Algorithm Time / Optimal Time Ratio: 122.37
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_746.txt
+Algorithm Time: 21236.47 ms
+Optimal Time: 176.06 ms
+Algorithm Time / Optimal Time Ratio: 120.62
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_183.txt
+Algorithm Time: 20996.26 ms
+Optimal Time: 197.30 ms
+Algorithm Time / Optimal Time Ratio: 106.42
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_829.txt
+Algorithm Time: 21327.85 ms
+Optimal Time: 169.55 ms
+Algorithm Time / Optimal Time Ratio: 125.79
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_197.txt
+Algorithm Time: 21008.85 ms
+Optimal Time: 206.94 ms
+Algorithm Time / Optimal Time Ratio: 101.52
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_801.txt
+Algorithm Time: 20759.28 ms
+Optimal Time: 167.57 ms
+Algorithm Time / Optimal Time Ratio: 123.88
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_815.txt
+Algorithm Time: 21709.46 ms
+Optimal Time: 208.37 ms
+Algorithm Time / Optimal Time Ratio: 104.19
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_140.txt
+Algorithm Time: 20975.93 ms
+Optimal Time: 173.00 ms
+Algorithm Time / Optimal Time Ratio: 121.25
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_626.txt
+Algorithm Time: 20580.63 ms
+Optimal Time: 371.31 ms
+Algorithm Time / Optimal Time Ratio: 55.43
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_632.txt
+Algorithm Time: 20832.43 ms
+Optimal Time: 169.59 ms
+Algorithm Time / Optimal Time Ratio: 122.84
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_154.txt
+Algorithm Time: 21147.34 ms
+Optimal Time: 162.21 ms
+Algorithm Time / Optimal Time Ratio: 130.37
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_168.txt
+Algorithm Time: 21169.17 ms
+Optimal Time: 171.97 ms
+Algorithm Time / Optimal Time Ratio: 123.10
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_381.txt
+Algorithm Time: 20975.35 ms
+Optimal Time: 187.57 ms
+Algorithm Time / Optimal Time Ratio: 111.83
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_395.txt
+Algorithm Time: 21109.17 ms
+Optimal Time: 217.69 ms
+Algorithm Time / Optimal Time Ratio: 96.97
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_424.txt
+Algorithm Time: 20972.19 ms
+Optimal Time: 157.99 ms
+Algorithm Time / Optimal Time Ratio: 132.74
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_342.txt
+Algorithm Time: 21165.28 ms
+Optimal Time: 165.85 ms
+Algorithm Time / Optimal Time Ratio: 127.62
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_356.txt
+Algorithm Time: 20791.35 ms
+Optimal Time: 172.48 ms
+Algorithm Time / Optimal Time Ratio: 120.54
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_430.txt
+Algorithm Time: 21466.88 ms
+Optimal Time: 169.15 ms
+Algorithm Time / Optimal Time Ratio: 126.91
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_418.txt
+Algorithm Time: 20536.80 ms
+Optimal Time: 163.94 ms
+Algorithm Time / Optimal Time Ratio: 125.27
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_434.txt
+Algorithm Time: 20672.46 ms
+Optimal Time: 205.78 ms
+Algorithm Time / Optimal Time Ratio: 100.46
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_352.txt
+Algorithm Time: 21670.57 ms
+Optimal Time: 174.97 ms
+Algorithm Time / Optimal Time Ratio: 123.86
+Algorithm Weight / Optimal Weight Ratio: 1.33
+
+Graph: ergnp_2000_3_346.txt
+Algorithm Time: 20991.42 ms
+Optimal Time: 170.65 ms
+Algorithm Time / Optimal Time Ratio: 123.01
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_420.txt
+Algorithm Time: 20779.59 ms
+Optimal Time: 352.51 ms
+Algorithm Time / Optimal Time Ratio: 58.95
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_408.txt
+Algorithm Time: 21076.44 ms
+Optimal Time: 175.76 ms
+Algorithm Time / Optimal Time Ratio: 119.92
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_391.txt
+Algorithm Time: 21115.08 ms
+Optimal Time: 173.04 ms
+Algorithm Time / Optimal Time Ratio: 122.02
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_385.txt
+Algorithm Time: 20803.15 ms
+Optimal Time: 168.08 ms
+Algorithm Time / Optimal Time Ratio: 123.77
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_150.txt
+Algorithm Time: 20779.63 ms
+Optimal Time: 395.92 ms
+Algorithm Time / Optimal Time Ratio: 52.48
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_636.txt
+Algorithm Time: 21109.31 ms
+Optimal Time: 155.98 ms
+Algorithm Time / Optimal Time Ratio: 135.33
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_622.txt
+Algorithm Time: 20607.69 ms
+Optimal Time: 180.16 ms
+Algorithm Time / Optimal Time Ratio: 114.39
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_144.txt
+Algorithm Time: 21041.45 ms
+Optimal Time: 173.88 ms
+Algorithm Time / Optimal Time Ratio: 121.01
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_178.txt
+Algorithm Time: 20625.40 ms
+Optimal Time: 380.49 ms
+Algorithm Time / Optimal Time Ratio: 54.21
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_193.txt
+Algorithm Time: 21408.98 ms
+Optimal Time: 130.10 ms
+Algorithm Time / Optimal Time Ratio: 164.56
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_839.txt
+Algorithm Time: 21052.57 ms
+Optimal Time: 166.86 ms
+Algorithm Time / Optimal Time Ratio: 126.17
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_187.txt
+Algorithm Time: 21246.10 ms
+Optimal Time: 213.11 ms
+Algorithm Time / Optimal Time Ratio: 99.70
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_811.txt
+Algorithm Time: 20667.17 ms
+Optimal Time: 164.97 ms
+Algorithm Time / Optimal Time Ratio: 125.28
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_805.txt
+Algorithm Time: 20473.63 ms
+Optimal Time: 205.67 ms
+Algorithm Time / Optimal Time Ratio: 99.54
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_742.txt
+Algorithm Time: 20907.90 ms
+Optimal Time: 213.69 ms
+Algorithm Time / Optimal Time Ratio: 97.84
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_756.txt
+Algorithm Time: 21185.63 ms
+Optimal Time: 209.85 ms
+Algorithm Time / Optimal Time Ratio: 100.96
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_959.txt
+Algorithm Time: 20778.24 ms
+Optimal Time: 243.02 ms
+Algorithm Time / Optimal Time Ratio: 85.50
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_781.txt
+Algorithm Time: 21277.49 ms
+Optimal Time: 208.33 ms
+Algorithm Time / Optimal Time Ratio: 102.13
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_795.txt
+Algorithm Time: 20962.70 ms
+Optimal Time: 472.78 ms
+Algorithm Time / Optimal Time Ratio: 44.34
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_12.txt
+Algorithm Time: 21065.88 ms
+Optimal Time: 469.71 ms
+Algorithm Time / Optimal Time Ratio: 44.85
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_965.txt
+Algorithm Time: 20872.31 ms
+Optimal Time: 151.49 ms
+Algorithm Time / Optimal Time Ratio: 137.78
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_971.txt
+Algorithm Time: 20916.42 ms
+Optimal Time: 250.88 ms
+Algorithm Time / Optimal Time Ratio: 83.37
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_540.txt
+Algorithm Time: 20634.46 ms
+Optimal Time: 220.28 ms
+Algorithm Time / Optimal Time Ratio: 93.68
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_226.txt
+Algorithm Time: 20885.40 ms
+Optimal Time: 203.31 ms
+Algorithm Time / Optimal Time Ratio: 102.73
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_232.txt
+Algorithm Time: 20571.53 ms
+Optimal Time: 218.52 ms
+Algorithm Time / Optimal Time Ratio: 94.14
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_554.txt
+Algorithm Time: 21102.39 ms
+Optimal Time: 166.74 ms
+Algorithm Time / Optimal Time Ratio: 126.56
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_568.txt
+Algorithm Time: 20743.10 ms
+Optimal Time: 173.50 ms
+Algorithm Time / Optimal Time Ratio: 119.56
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_583.txt
+Algorithm Time: 20438.44 ms
+Optimal Time: 356.69 ms
+Algorithm Time / Optimal Time Ratio: 57.30
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_597.txt
+Algorithm Time: 21059.57 ms
+Optimal Time: 160.25 ms
+Algorithm Time / Optimal Time Ratio: 131.41
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_596.txt
+Algorithm Time: 21164.49 ms
+Optimal Time: 359.63 ms
+Algorithm Time / Optimal Time Ratio: 58.85
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_582.txt
+Algorithm Time: 20899.78 ms
+Optimal Time: 161.64 ms
+Algorithm Time / Optimal Time Ratio: 129.30
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_569.txt
+Algorithm Time: 20879.23 ms
+Optimal Time: 167.92 ms
+Algorithm Time / Optimal Time Ratio: 124.34
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_233.txt
+Algorithm Time: 21090.08 ms
+Optimal Time: 392.70 ms
+Algorithm Time / Optimal Time Ratio: 53.71
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_555.txt
+Algorithm Time: 21184.26 ms
+Optimal Time: 370.09 ms
+Algorithm Time / Optimal Time Ratio: 57.24
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_541.txt
+Algorithm Time: 21149.88 ms
+Optimal Time: 207.90 ms
+Algorithm Time / Optimal Time Ratio: 101.73
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_227.txt
+Algorithm Time: 21053.50 ms
+Optimal Time: 164.46 ms
+Algorithm Time / Optimal Time Ratio: 128.02
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_970.txt
+Algorithm Time: 21025.60 ms
+Optimal Time: 186.03 ms
+Algorithm Time / Optimal Time Ratio: 113.02
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_13.txt
+Algorithm Time: 20721.64 ms
+Optimal Time: 165.60 ms
+Algorithm Time / Optimal Time Ratio: 125.13
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_964.txt
+Algorithm Time: 21273.53 ms
+Optimal Time: 170.62 ms
+Algorithm Time / Optimal Time Ratio: 124.68
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_794.txt
+Algorithm Time: 21181.51 ms
+Optimal Time: 344.66 ms
+Algorithm Time / Optimal Time Ratio: 61.46
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_780.txt
+Algorithm Time: 21127.79 ms
+Optimal Time: 166.22 ms
+Algorithm Time / Optimal Time Ratio: 127.11
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_958.txt
+Algorithm Time: 20773.90 ms
+Optimal Time: 433.54 ms
+Algorithm Time / Optimal Time Ratio: 47.92
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_757.txt
+Algorithm Time: 20834.22 ms
+Optimal Time: 170.72 ms
+Algorithm Time / Optimal Time Ratio: 122.04
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_743.txt
+Algorithm Time: 20527.06 ms
+Optimal Time: 164.20 ms
+Algorithm Time / Optimal Time Ratio: 125.01
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_804.txt
+Algorithm Time: 20548.98 ms
+Optimal Time: 165.57 ms
+Algorithm Time / Optimal Time Ratio: 124.11
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_810.txt
+Algorithm Time: 21090.83 ms
+Optimal Time: 170.09 ms
+Algorithm Time / Optimal Time Ratio: 124.00
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_838.txt
+Algorithm Time: 20570.24 ms
+Optimal Time: 350.05 ms
+Algorithm Time / Optimal Time Ratio: 58.76
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_186.txt
+Algorithm Time: 21456.47 ms
+Optimal Time: 417.62 ms
+Algorithm Time / Optimal Time Ratio: 51.38
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_192.txt
+Algorithm Time: 21163.56 ms
+Optimal Time: 168.52 ms
+Algorithm Time / Optimal Time Ratio: 125.59
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_179.txt
+Algorithm Time: 20759.92 ms
+Optimal Time: 207.58 ms
+Algorithm Time / Optimal Time Ratio: 100.01
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_623.txt
+Algorithm Time: 20961.91 ms
+Optimal Time: 151.41 ms
+Algorithm Time / Optimal Time Ratio: 138.45
+Algorithm Weight / Optimal Weight Ratio: 1.33
+
+Graph: ergnp_2000_3_145.txt
+Algorithm Time: 20639.46 ms
+Optimal Time: 414.05 ms
+Algorithm Time / Optimal Time Ratio: 49.85
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_151.txt
+Algorithm Time: 21338.81 ms
+Optimal Time: 167.88 ms
+Algorithm Time / Optimal Time Ratio: 127.11
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_637.txt
+Algorithm Time: 21117.20 ms
+Optimal Time: 165.72 ms
+Algorithm Time / Optimal Time Ratio: 127.42
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_384.txt
+Algorithm Time: 21252.14 ms
+Optimal Time: 168.67 ms
+Algorithm Time / Optimal Time Ratio: 126.00
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_390.txt
+Algorithm Time: 21262.86 ms
+Optimal Time: 175.32 ms
+Algorithm Time / Optimal Time Ratio: 121.28
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_409.txt
+Algorithm Time: 20967.30 ms
+Optimal Time: 213.88 ms
+Algorithm Time / Optimal Time Ratio: 98.03
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_347.txt
+Algorithm Time: 21339.23 ms
+Optimal Time: 170.15 ms
+Algorithm Time / Optimal Time Ratio: 125.41
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_421.txt
+Algorithm Time: 21153.46 ms
+Optimal Time: 169.17 ms
+Algorithm Time / Optimal Time Ratio: 125.04
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_435.txt
+Algorithm Time: 20879.75 ms
+Optimal Time: 155.31 ms
+Algorithm Time / Optimal Time Ratio: 134.44
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_353.txt
+Algorithm Time: 20704.81 ms
+Optimal Time: 351.23 ms
+Algorithm Time / Optimal Time Ratio: 58.95
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_423.txt
+Algorithm Time: 21033.31 ms
+Optimal Time: 168.64 ms
+Algorithm Time / Optimal Time Ratio: 124.72
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_345.txt
+Algorithm Time: 20955.02 ms
+Optimal Time: 162.34 ms
+Algorithm Time / Optimal Time Ratio: 129.08
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_351.txt
+Algorithm Time: 21015.01 ms
+Optimal Time: 168.78 ms
+Algorithm Time / Optimal Time Ratio: 124.51
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_437.txt
+Algorithm Time: 20914.93 ms
+Optimal Time: 364.14 ms
+Algorithm Time / Optimal Time Ratio: 57.44
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_379.txt
+Algorithm Time: 21092.84 ms
+Optimal Time: 168.07 ms
+Algorithm Time / Optimal Time Ratio: 125.50
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_386.txt
+Algorithm Time: 21018.70 ms
+Optimal Time: 167.20 ms
+Algorithm Time / Optimal Time Ratio: 125.71
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_392.txt
+Algorithm Time: 20733.56 ms
+Optimal Time: 425.84 ms
+Algorithm Time / Optimal Time Ratio: 48.69
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_147.txt
+Algorithm Time: 21485.69 ms
+Optimal Time: 170.75 ms
+Algorithm Time / Optimal Time Ratio: 125.83
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_621.txt
+Algorithm Time: 21035.57 ms
+Optimal Time: 163.75 ms
+Algorithm Time / Optimal Time Ratio: 128.46
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_635.txt
+Algorithm Time: 20817.85 ms
+Optimal Time: 157.46 ms
+Algorithm Time / Optimal Time Ratio: 132.21
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_153.txt
+Algorithm Time: 21233.14 ms
+Optimal Time: 210.39 ms
+Algorithm Time / Optimal Time Ratio: 100.92
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_609.txt
+Algorithm Time: 20662.87 ms
+Optimal Time: 369.29 ms
+Algorithm Time / Optimal Time Ratio: 55.95
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_184.txt
+Algorithm Time: 21091.37 ms
+Optimal Time: 168.95 ms
+Algorithm Time / Optimal Time Ratio: 124.84
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_190.txt
+Algorithm Time: 21049.13 ms
+Optimal Time: 171.61 ms
+Algorithm Time / Optimal Time Ratio: 122.66
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_806.txt
+Algorithm Time: 21644.11 ms
+Optimal Time: 170.65 ms
+Algorithm Time / Optimal Time Ratio: 126.84
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_812.txt
+Algorithm Time: 21312.19 ms
+Optimal Time: 160.72 ms
+Algorithm Time / Optimal Time Ratio: 132.61
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_755.txt
+Algorithm Time: 21340.33 ms
+Optimal Time: 173.05 ms
+Algorithm Time / Optimal Time Ratio: 123.32
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_741.txt
+Algorithm Time: 21236.09 ms
+Optimal Time: 212.10 ms
+Algorithm Time / Optimal Time Ratio: 100.12
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_999.txt
+Algorithm Time: 21181.46 ms
+Optimal Time: 520.11 ms
+Algorithm Time / Optimal Time Ratio: 40.73
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_769.txt
+Algorithm Time: 20993.02 ms
+Optimal Time: 167.28 ms
+Algorithm Time / Optimal Time Ratio: 125.50
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_39.txt
+Algorithm Time: 20938.35 ms
+Optimal Time: 174.05 ms
+Algorithm Time / Optimal Time Ratio: 120.30
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_796.txt
+Algorithm Time: 20717.68 ms
+Optimal Time: 164.69 ms
+Algorithm Time / Optimal Time Ratio: 125.80
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_782.txt
+Algorithm Time: 21210.93 ms
+Optimal Time: 166.22 ms
+Algorithm Time / Optimal Time Ratio: 127.61
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_972.txt
+Algorithm Time: 21058.73 ms
+Optimal Time: 183.00 ms
+Algorithm Time / Optimal Time Ratio: 115.07
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_966.txt
+Algorithm Time: 21228.00 ms
+Optimal Time: 165.08 ms
+Algorithm Time / Optimal Time Ratio: 128.60
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_11.txt
+Algorithm Time: 21191.64 ms
+Optimal Time: 391.74 ms
+Algorithm Time / Optimal Time Ratio: 54.10
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_557.txt
+Algorithm Time: 20663.21 ms
+Optimal Time: 167.50 ms
+Algorithm Time / Optimal Time Ratio: 123.36
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_231.txt
+Algorithm Time: 20897.28 ms
+Optimal Time: 160.61 ms
+Algorithm Time / Optimal Time Ratio: 130.12
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_225.txt
+Algorithm Time: 21005.19 ms
+Optimal Time: 173.41 ms
+Algorithm Time / Optimal Time Ratio: 121.13
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_543.txt
+Algorithm Time: 21047.37 ms
+Optimal Time: 337.23 ms
+Algorithm Time / Optimal Time Ratio: 62.41
+Algorithm Weight / Optimal Weight Ratio: 1.30
+
+Graph: ergnp_2000_3_219.txt
+Algorithm Time: 21154.54 ms
+Optimal Time: 387.91 ms
+Algorithm Time / Optimal Time Ratio: 54.53
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_594.txt
+Algorithm Time: 20951.08 ms
+Optimal Time: 165.45 ms
+Algorithm Time / Optimal Time Ratio: 126.63
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_580.txt
+Algorithm Time: 20517.82 ms
+Optimal Time: 380.48 ms
+Algorithm Time / Optimal Time Ratio: 53.93
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_581.txt
+Algorithm Time: 21436.64 ms
+Optimal Time: 172.43 ms
+Algorithm Time / Optimal Time Ratio: 124.32
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_595.txt
+Algorithm Time: 20754.48 ms
+Optimal Time: 174.59 ms
+Algorithm Time / Optimal Time Ratio: 118.87
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_218.txt
+Algorithm Time: 21296.96 ms
+Optimal Time: 167.57 ms
+Algorithm Time / Optimal Time Ratio: 127.09
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_224.txt
+Algorithm Time: 20980.87 ms
+Optimal Time: 168.85 ms
+Algorithm Time / Optimal Time Ratio: 124.26
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_542.txt
+Algorithm Time: 21244.08 ms
+Optimal Time: 374.56 ms
+Algorithm Time / Optimal Time Ratio: 56.72
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_556.txt
+Algorithm Time: 21050.53 ms
+Optimal Time: 173.44 ms
+Algorithm Time / Optimal Time Ratio: 121.37
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_230.txt
+Algorithm Time: 20503.74 ms
+Optimal Time: 170.24 ms
+Algorithm Time / Optimal Time Ratio: 120.44
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_967.txt
+Algorithm Time: 20888.06 ms
+Optimal Time: 165.60 ms
+Algorithm Time / Optimal Time Ratio: 126.14
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_10.txt
+Algorithm Time: 20912.26 ms
+Optimal Time: 165.67 ms
+Algorithm Time / Optimal Time Ratio: 126.23
+Algorithm Weight / Optimal Weight Ratio: 1.25
+
+Graph: ergnp_2000_3_973.txt
+Algorithm Time: 21023.60 ms
+Optimal Time: 166.17 ms
+Algorithm Time / Optimal Time Ratio: 126.52
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_783.txt
+Algorithm Time: 20925.30 ms
+Optimal Time: 168.70 ms
+Algorithm Time / Optimal Time Ratio: 124.03
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_38.txt
+Algorithm Time: 20575.41 ms
+Optimal Time: 162.54 ms
+Algorithm Time / Optimal Time Ratio: 126.58
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_797.txt
+Algorithm Time: 21167.46 ms
+Optimal Time: 171.33 ms
+Algorithm Time / Optimal Time Ratio: 123.55
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_768.txt
+Algorithm Time: 20772.73 ms
+Optimal Time: 161.89 ms
+Algorithm Time / Optimal Time Ratio: 128.32
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_998.txt
+Algorithm Time: 20906.53 ms
+Optimal Time: 452.46 ms
+Algorithm Time / Optimal Time Ratio: 46.21
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_740.txt
+Algorithm Time: 20882.76 ms
+Optimal Time: 176.42 ms
+Algorithm Time / Optimal Time Ratio: 118.37
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_754.txt
+Algorithm Time: 20854.00 ms
+Optimal Time: 358.84 ms
+Algorithm Time / Optimal Time Ratio: 58.11
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_813.txt
+Algorithm Time: 20856.75 ms
+Optimal Time: 167.85 ms
+Algorithm Time / Optimal Time Ratio: 124.26
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_807.txt
+Algorithm Time: 20710.80 ms
+Optimal Time: 379.54 ms
+Algorithm Time / Optimal Time Ratio: 54.57
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_191.txt
+Algorithm Time: 21502.12 ms
+Optimal Time: 395.94 ms
+Algorithm Time / Optimal Time Ratio: 54.31
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_185.txt
+Algorithm Time: 20626.16 ms
+Optimal Time: 159.48 ms
+Algorithm Time / Optimal Time Ratio: 129.33
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_608.txt
+Algorithm Time: 21125.86 ms
+Optimal Time: 393.93 ms
+Algorithm Time / Optimal Time Ratio: 53.63
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_634.txt
+Algorithm Time: 21170.13 ms
+Optimal Time: 128.91 ms
+Algorithm Time / Optimal Time Ratio: 164.22
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_152.txt
+Algorithm Time: 20307.88 ms
+Optimal Time: 169.96 ms
+Algorithm Time / Optimal Time Ratio: 119.49
+Algorithm Weight / Optimal Weight Ratio: 1.26
+
+Graph: ergnp_2000_3_146.txt
+Algorithm Time: 20862.43 ms
+Optimal Time: 166.28 ms
+Algorithm Time / Optimal Time Ratio: 125.46
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_620.txt
+Algorithm Time: 21408.87 ms
+Optimal Time: 170.79 ms
+Algorithm Time / Optimal Time Ratio: 125.35
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_393.txt
+Algorithm Time: 20882.78 ms
+Optimal Time: 164.37 ms
+Algorithm Time / Optimal Time Ratio: 127.05
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_387.txt
+Algorithm Time: 21287.09 ms
+Optimal Time: 378.11 ms
+Algorithm Time / Optimal Time Ratio: 56.30
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_378.txt
+Algorithm Time: 20955.04 ms
+Optimal Time: 172.61 ms
+Algorithm Time / Optimal Time Ratio: 121.40
+Algorithm Weight / Optimal Weight Ratio: 1.27
+
+Graph: ergnp_2000_3_350.txt
+Algorithm Time: 21453.18 ms
+Optimal Time: 212.50 ms
+Algorithm Time / Optimal Time Ratio: 100.96
+Algorithm Weight / Optimal Weight Ratio: 1.31
+
+Graph: ergnp_2000_3_436.txt
+Algorithm Time: 21199.02 ms
+Optimal Time: 167.68 ms
+Algorithm Time / Optimal Time Ratio: 126.43
+Algorithm Weight / Optimal Weight Ratio: 1.29
+
+Graph: ergnp_2000_3_422.txt
+Algorithm Time: 21594.12 ms
+Optimal Time: 171.93 ms
+Algorithm Time / Optimal Time Ratio: 125.59
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Graph: ergnp_2000_3_344.txt
+Algorithm Time: 21614.23 ms
+Optimal Time: 182.15 ms
+Algorithm Time / Optimal Time Ratio: 118.66
+Algorithm Weight / Optimal Weight Ratio: 1.28
+
+Average Algorithm Time: 21120.02 ms
+Average Optimal Time: 220.35 ms
+Average Algorithm Time / Optimal Time Ratio: 108.03
+Average Algorithm Weight / Optimal Weight Ratio: 1.28
