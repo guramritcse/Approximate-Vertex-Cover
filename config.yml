@@ -1,12 +1,13 @@
 graph_generation:
   gen_model: "ergnp"  # Graph generation model
   parameters:
-    n: 10             # Number of vertices
-    k: 3              # Sparsity parameter
-  size: 10            # Number of graphs to generate
+    n: 200            # Number of vertices
+    k: 10             # Sparsity parameter
+  size: 100           # Number of graphs to generate
 
 dataset:
   dir: "dataset"      # Directory to save the dataset
 
 output:
   dir: "output"       # Directory to save the output
+  
